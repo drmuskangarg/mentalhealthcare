@@ -20,3 +20,14 @@ In the past 8 years, the exponential growth of mental health detection has shown
 3. Time-aware Transformer: Sawhney, R., Joshi, H., Gandhi, S., & Shah, R. (2020, November).[ A time-aware transformer based model for suicide ideation detection on social media. ](https://aclanthology.org/2020.emnlp-main.619.pdf)In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 7685-7697).
 4. Feature Selection using Evolutionary Computing: Sawhney, R., Shah, R. R., Bhatia, V., Lin, C. T., Aggarwal, S., & Prasad, M. (2019, June). [Exploring the impact of evolutionary computing based feature selection in suicidal ideation detection. ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8858989)In 2019 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-6). IEEE.
 5. Checking out the historical timeline of the user: Sawhney, R., Joshi, H., Flek, L., & Shah, R. (2021, April).[ PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media.](https://aclanthology.org/2021.eacl-main.205.pdf) In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume (pp. 2415-2428).
+
+# Other Interesting Research
+
+1. Noisy Label problem in data annotation: Haque, A., Reddi, V., & Giallanza, T. (2021). [Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction.](https://arxiv.org/pdf/2102.09427.pdf) arXiv preprint arXiv:2102.09427.
+2. Yazdavar, A. H., Mahdavinejad, M. S., Bajaj, G., Romine, W., Sheth, A., Monadjemi, A. H., ... & Hitzler, P. (2020). [Multimodal mental health analysis in social media.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226248) Plos one, 15(4), e0226248.
+
+# Supporting theories for suicide
+
+1. Klonsky, E. D., & May, A. M. (2015). The three-step theory (3ST):[ A new theory of suicide rooted in the “ideation-to-action” framework. ](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.7503&rep=rep1&type=pdf)International Journal of Cognitive Therapy, 8(2), 114-129.
+
+
