@@ -2,7 +2,6 @@
 This project is associated with the mental health status detection on social media. With increase in suicidal attempts amid COVID-19 lockdown period, efforts have been made to control the suicidal rate for good governance. 
 
 # Reading List for Mental Health Detection and Analysis on Social Media
-A reading list for this project is maintained by Muskan Garg from Amity University Rajasthan. 
 
 In the past 8 years, the exponential growth of mental health detection has shown a steep growth in mental health detection and analysis. The studies have evolved with the use of machine learning to concentrated concepts like the problem of noisy labels for data annotation and constructing the multimodal autoencoders. 
 
@@ -30,5 +29,29 @@ In the past 8 years, the exponential growth of mental health detection has shown
 
 1. Klonsky, E. D., & May, A. M. (2015). The three-step theory (3ST):[ A new theory of suicide rooted in the “ideation-to-action” framework. ](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.7503&rep=rep1&type=pdf)International Journal of Cognitive Therapy, 8(2), 114-129.
 2. Kang, N., You, J., Huang, J., Ren, Y., Lin, M. P., & Xu, S. (2019).[ Understanding the Pathways from Depression to Suicidal Risk from the Perspective of the Interpersonal–Psychological Theory of Suicide.](https://www.researchgate.net/profile/Nan-Kang-2/publication/324012197_Understanding_the_Pathways_from_Depression_to_Suicidal_Risk_from_the_Perspective_of_the_Interpersonal-Psychological_Theory_of_Suicide/links/5e1968c9a6fdcc283768a02a/Understanding-the-Pathways-from-Depression-to-Suicidal-Risk-from-the-Perspective-of-the-Interpersonal-Psychological-Theory-of-Suicide.pdf) Suicide and Life‐Threatening Behavior, 49(3), 684-694.
+
+# Research Gap
+
+There are minimal studies to compare and contrast the multi-class classification problem of mental healthcare and quantifying the mental health for suicidal risk. 
+
+# Objective
+
+To quantify the suicidal tendency on social media. 
+
+# Hypothesis
+
+The stress for a brief period may lead to clinical depressions and the long-lasting traits of prevailing depressions can be life threatening with suicidal ideation as the possible outcome.
+
+# Initial Step
+
+To categorize the mental health status based on the suicidal theory (suicide ideation, low suicide tendency, high suicide tendency, suicide attempt) as per the clinical psychology theory (Klonsky _et. al._, 2015). 
+
+# Data collection
+
+Methodology for data collection: Sawhney, R., Manchanda, P., Singh, R., & Aggarwal, S. (2018, July).[ A computational approach to feature extraction for identification of suicidal ideation in tweets.](https://aclanthology.org/P18-3013.pdf) In Proceedings of ACL 2018, Student Research Workshop (pp. 91-98).
+
+Extracting all posts from the subreddit of Reddit social media platform, r/SuicideWatch and annotate it in [suicide ideation, low suicide tendency, high suicide tendency, suicide attempt]
+
+
 
 
