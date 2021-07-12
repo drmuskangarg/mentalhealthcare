@@ -29,5 +29,6 @@ In the past 8 years, the exponential growth of mental health detection has shown
 # Supporting theories for suicide
 
 1. Klonsky, E. D., & May, A. M. (2015). The three-step theory (3ST):[ A new theory of suicide rooted in the “ideation-to-action” framework. ](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.7503&rep=rep1&type=pdf)International Journal of Cognitive Therapy, 8(2), 114-129.
+2. Kang, N., You, J., Huang, J., Ren, Y., Lin, M. P., & Xu, S. (2019).[ Understanding the Pathways from Depression to Suicidal Risk from the Perspective of the Interpersonal–Psychological Theory of Suicide.](https://www.researchgate.net/profile/Nan-Kang-2/publication/324012197_Understanding_the_Pathways_from_Depression_to_Suicidal_Risk_from_the_Perspective_of_the_Interpersonal-Psychological_Theory_of_Suicide/links/5e1968c9a6fdcc283768a02a/Understanding-the-Pathways-from-Depression-to-Suicidal-Risk-from-the-Perspective-of-the-Interpersonal-Psychological-Theory-of-Suicide.pdf) Suicide and Life‐Threatening Behavior, 49(3), 684-694.
 
 
