@@ -35,7 +35,7 @@ In the past 8 years, the exponential growth of mental health detection has shown
 # Major Contributions
 
 1. Song, H., You, J., Chung, J. W., & Park, J. C. (2018). Feature Attention Network: Interpretable Depression Detection from Social Media. In Proceedings of the 32nd Pacific Asia Conference on Language, Information and Computation.
-2. 
+2. Cao, L., Zhang, H., & Feng, L. (2020). Building and using personal knowledge graph to improve suicidal ideation detection on social media. IEEE Transactions on Multimedia.
 
 # Methods and Architectures
 
