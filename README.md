@@ -12,6 +12,7 @@ In the past 8 years, the exponential growth of mental health detection has shown
 3. Shen, T., Jia, J., Shen, G., Feng, F., He, X., Luan, H., ... & Hall, W. (2018). [Cross-domain depression detection via harvesting social media.](https://eprints.soton.ac.uk/423226/1/IJCAI18_Shen_et_al_depression_detection.pdf) International Joint Conferences on Artificial Intelligence: https://github.com/sunlightsgy/MDDL
 4. Turcan, E., & McKeown, K. (2019). [Dreaddit: A Reddit dataset for stress analysis in social media.](https://arxiv.org/pdf/1911.00133.pdf) arXiv preprint arXiv:1911.00133.
 5. Han-Chin Shing, Suraj Nair, Ayah Zirikly, Meir Friedenberg, Hal Daumé III, Philip Resnik. [Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings](https://aclanthology.org/W18-0603.pdf). Proceedings of the Fifth Workshop on Computational Linguistics and Clinical Psychology: From Keyboard to Clinic
+6. https://erisk.irlab.org/eRisk2021.html
 
 # Suicidal Ideation
 
