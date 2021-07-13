@@ -41,6 +41,7 @@ In the past 8 years, the exponential growth of mental health detection has shown
 4. Lin, C., Hu, P., Su, H., Li, S., Mei, J., Zhou, J., & Leung, H. (2020, June). Sensemood: Depression detection on social media. In Proceedings of the 2020 International Conference on Multimedia Retrieval (pp. 407-411).
 5. Gui, T., Zhu, L., Zhang, Q., Peng, M., Zhou, X., Ding, K., & Chen, Z. (2019, July). Cooperative multimodal approach to depression detection in Twitter. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 110-117).
 6. Zogan, H., Razzak, I., Jameel, S., & Xu, G. (2021). DepressionNet: A Novel Summarization Boosted Deep Framework for Depression Detection on Social Media. arXiv preprint arXiv:2105.10878.: **EXPLAINABILITY**
+7. Hu, Y., & Sokolova, M. (2021). Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data. arXiv preprint arXiv:2105.13430. **EXPLAINABILITY**
 
 # Methods and Architectures
 
