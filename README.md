@@ -36,6 +36,7 @@ In the past 8 years, the exponential growth of mental health detection has shown
 
 1. Song, H., You, J., Chung, J. W., & Park, J. C. (2018). Feature Attention Network: Interpretable Depression Detection from Social Media. In Proceedings of the 32nd Pacific Asia Conference on Language, Information and Computation.
 2. Cao, L., Zhang, H., & Feng, L. (2020). Building and using personal knowledge graph to improve suicidal ideation detection on social media. IEEE Transactions on Multimedia.
+3. Shah, F. M., Haque, F., Nur, R. U., Al Jahan, S., & Mamud, Z. (2020, June). A hybridized feature extraction approach to suicidal ideation detection from social media post. In 2020 IEEE Region 10 Symposium (TENSYMP) (pp. 985-988). IEEE.
 
 # Methods and Architectures
 
