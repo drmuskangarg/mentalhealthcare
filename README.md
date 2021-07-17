@@ -69,9 +69,13 @@ Methodology for data collection: Sawhney, R., Manchanda, P., Singh, R., & Aggarw
 
 Extracting all posts from the subreddit of Reddit social media platform, r/SuicideWatch and annotate it in [suicide ideation, low suicide tendency, high suicide tendency, suicide attempt]
 
-# Code-Switching
+# Objective 1
+Exploiting Explainable Machine Learning for Mental Health Detection on Social Media
 
-1. Makhija, P., Kumar, A., & Gupta, A. (2020). hinglishNorm--[A https://arxiv.org/pdf/2010.08974.pdfpus of Hindi-English Code Mixed Sentences for Text Normalization](url). arXiv preprint arXiv:2010.08974.
+1. Logistic Regression
+
+Explainability: LIME and SHAP
+[Link 1](https://aclanthology.org/2020.emnlp-main.263.pdf) and [Link 2](https://aclanthology.org/2020.aacl-main.46.pdf)
 
 
 
