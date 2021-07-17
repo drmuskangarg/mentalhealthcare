@@ -75,7 +75,8 @@ Exploiting Explainable Machine Learning for Mental Health Detection on Social Me
 1. Logistic Regression
 
 Explainability: LIME and SHAP
-[Link 1](https://aclanthology.org/2020.emnlp-main.263.pdf) and [Link 2](https://aclanthology.org/2020.aacl-main.46.pdf)
+[A Diagnostic Study of Explainability Techniques for Text Classification](https://aclanthology.org/2020.emnlp-main.263.pdf) and [A Survey of the State of Explainable AI for Natural Language Processing
+](https://aclanthology.org/2020.aacl-main.46.pdf)
 
 
 
