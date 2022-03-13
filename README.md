@@ -1,7 +1,6 @@
 
 # Reading List for Mental Health Detection and Analysis on Social Media
-This project is associated with the positional paper on Mental Health Analysis on Social Media: Resources, Advances and New Frontiers 
-Since a decade, the exponential growth is observed in computational intelligence techniques for mental illness detection and analysis on social media. 
+This project is associated with the positional paper on Mental Health Analysis on Social Media: Resources, Advances and New Frontiers. For a decade now, the exponential growth is observed in computational intelligence techniques for mental illness detection and analysis on social media. 
 
 # Available Datasets 
 
