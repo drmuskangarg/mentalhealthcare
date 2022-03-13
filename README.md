@@ -5,7 +5,7 @@ Since a decade, the exponential growth is observed in computational intelligence
 
 # Available Datasets 
 
-1. Haque, A., Reddi, V., & Giallanza, T. (2021). [Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction.](https://arxiv.org/pdf/2102.09427.pdf) arXiv preprint arXiv:2102.09427.
+1. Haque, A., Reddi, V., & Giallanza, T. (2021). [Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction.](https://arxiv.org/pdf/2102.09427.pdf) arXiv preprint arXiv:2102.09427. [Link](https://github.com/ayaanzhaque/SDCNL)
 2. Yates, A., Cohan, A., & Goharian, N. (2017). [Depression and self-harm risk assessment in online forums.](https://arxiv.org/pdf/1709.01848.pdf) arXiv preprint arXiv:1709.01848. Available via signed agreement.
 3. Shen, T., Jia, J., Shen, G., Feng, F., He, X., Luan, H., ... & Hall, W. (2018). [Cross-domain depression detection via harvesting social media.](https://eprints.soton.ac.uk/423226/1/IJCAI18_Shen_et_al_depression_detection.pdf) International Joint Conferences on Artificial Intelligence: https://github.com/sunlightsgy/MDDL
 4. Turcan, E., & McKeown, K. (2019). [Dreaddit: A Reddit dataset for stress analysis in social media.](https://arxiv.org/pdf/1911.00133.pdf) arXiv preprint arXiv:1911.00133. 
