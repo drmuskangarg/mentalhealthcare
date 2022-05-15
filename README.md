@@ -4,6 +4,10 @@ This project is associated with the positional paper on Mental Health Analysis o
 
 # Available Datasets 
 
+1. d1: Data Mining/ Natural language Processing for social media
+2. d2: Integrated applications: Data mining and user network modeling
+3. d3: User and network modeling on social networks
+
 1. Haque, A., Reddi, V., & Giallanza, T. (2021). [Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction.](https://arxiv.org/pdf/2102.09427.pdf) arXiv preprint arXiv:2102.09427. [Link](https://github.com/ayaanzhaque/SDCNL)
 2. Yates, A., Cohan, A., & Goharian, N. (2017). [Depression and self-harm risk assessment in online forums.](https://arxiv.org/pdf/1709.01848.pdf) arXiv preprint arXiv:1709.01848. Available via signed agreement. [Link](http://ir.cs.georgetown.edu/resources/rsdd.html)
 3. Cohan, A., Desmet, B., Yates, A., Soldaini, L., MacAvaney, S., & Goharian, N. (2018). [SMHD: a large-scale resource for exploring online language usage for multiple mental health conditions.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Smhd%3A+a+large-scale+resource+for+exploring+online+language+usage+for+multiple+mental+health+conditions&btnG=) arXiv preprint arXiv:1806.05258. [Link](http://ir.cs.georgetown.edu/resources/smhd.html)
