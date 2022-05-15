@@ -39,13 +39,13 @@ This project is associated with the positional paper on Mental Health Analysis o
 8. Yazdavar, A. H., Mahdavinejad, M. S., Bajaj, G., Romine, W., Sheth, A., Monadjemi, A. H., ... & Hitzler, P. (2020). [Multimodal mental health analysis in social media.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226248) Plos one, 15(4), e0226248.
 
 
-1. Song, H., You, J., Chung, J. W., & Park, J. C. (2018). Feature Attention Network: Interpretable Depression Detection from Social Media. In Proceedings of the 32nd Pacific Asia Conference on Language, Information and Computation. **EXPLAINABILITY**
-2. Cao, L., Zhang, H., & Feng, L. (2020). Building and using personal knowledge graph to improve suicidal ideation detection on social media. IEEE Transactions on Multimedia. **EXPLAINABILITY** 
-3. Shah, F. M., Haque, F., Nur, R. U., Al Jahan, S., & Mamud, Z. (2020, June). A hybridized feature extraction approach to suicidal ideation detection from social media post. In 2020 IEEE Region 10 Symposium (TENSYMP) (pp. 985-988). IEEE.
-4. Lin, C., Hu, P., Su, H., Li, S., Mei, J., Zhou, J., & Leung, H. (2020, June). Sensemood: Depression detection on social media. In Proceedings of the 2020 International Conference on Multimedia Retrieval (pp. 407-411).
-5. Gui, T., Zhu, L., Zhang, Q., Peng, M., Zhou, X., Ding, K., & Chen, Z. (2019, July). Cooperative multimodal approach to depression detection in Twitter. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 110-117).
-6. Zogan, H., Razzak, I., Jameel, S., & Xu, G. (2021). DepressionNet: A Novel Summarization Boosted Deep Framework for Depression Detection on Social Media. arXiv preprint arXiv:2105.10878.: **EXPLAINABILITY**
-7. Hu, Y., & Sokolova, M. (2021). Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data. arXiv preprint arXiv:2105.13430. **EXPLAINABILITY**
+1. Song, H., You, J., Chung, J. W., & Park, J. C. (2018). [Feature Attention Network: Interpretable Depression Detection from Social Media.](https://aclanthology.org/Y18-1070.pdf) In Proceedings of the 32nd Pacific Asia Conference on Language, Information and Computation. **EXPLAINABILITY**
+2. Cao, L., Zhang, H., & Feng, L. (2020). [Building and using personal knowledge graph to improve suicidal ideation detection on social media. IEEE Transactions on Multimedia.](https://ieeexplore.ieee.org/iel7/6046/4456689/09308975.pdf?casa_token=NVcN4VExBigAAAAA:nQG-ZQaKsJcrcTpnsWHUN301Jg9wZapbdy4JUt4gAmdEsEoL0njDvw6hQvS6pbMvWShkNIFF) **EXPLAINABILITY** 
+3. Shah, F. M., Haque, F., Nur, R. U., Al Jahan, S., & Mamud, Z. (2020, June). [A hybridized feature extraction approach to suicidal ideation detection from social media post.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230733&casa_token=TYz9cnMmXssAAAAA:W_YLdEx03k-xN4s67PYticy7t8uYv_D8c0v1IK2FCNRwsws5H-G5NbfbaYit3J4gzLFHdXCC)In 2020 IEEE Region 10 Symposium (TENSYMP) (pp. 985-988). IEEE.
+4. Lin, C., Hu, P., Su, H., Li, S., Mei, J., Zhou, J., & Leung, H. (2020, June). [Sensemood: Depression detection on social media.](https://dl.acm.org/doi/pdf/10.1145/3372278.3391932?casa_token=qr_9LHm3WNsAAAAA:Ulea6DRqLb2bw9WrBNvA5ejT5MNed2V1aLZQORzY992B26QLdq3R9DWNh22VHoPC8v3kWPjcNryZ) In Proceedings of the 2020 International Conference on Multimedia Retrieval (pp. 407-411).
+5. Gui, T., Zhu, L., Zhang, Q., Peng, M., Zhou, X., Ding, K., & Chen, Z. (2019, July). [Cooperative multimodal approach to depression detection in Twitter.](https://ojs.aaai.org/index.php/AAAI/article/view/3775) In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 110-117).
+6. Zogan, H., Razzak, I., Jameel, S., & Xu, G. (2021). [DepressionNet: A Novel Summarization Boosted Deep Framework for Depression Detection on Social Media.](https://arxiv.org/pdf/2105.10878.pdf) arXiv preprint arXiv:2105.10878.: **EXPLAINABILITY**
+7. Hu, Y., & Sokolova, M. (2021). [Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data.](https://arxiv.org/pdf/2105.13430.pdf) arXiv preprint arXiv:2105.13430. **EXPLAINABILITY**
 
 # Supporting theories for suicide
 
