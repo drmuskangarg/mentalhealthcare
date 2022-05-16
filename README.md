@@ -57,7 +57,14 @@ This project is associated with the survey paper on Social Computing for Mental 
 | |Deep learning for depression detection from textual data.| Paper | Dataset| Code |  |
 | |Deep learning for depression detection from textual data.| Paper | Dataset| Code |  |
 | 2021 | Towards ordinal suicide ideation detection on social media. | Paper | Dataset | Code | |
-
+| 2021 | Depression detection with multi-modalities using a hybrid deep learning model on social media | Paper | Dataset | Code | |
+| 2021 |  Detection of depression-related posts in reddit social media forum | Paper | Dataset | Code | |
+|  | Dual attention based suicide risk detection on social media | Paper | Dataset | Code | |
+| | Latent suicide risk detection on microblog via suicide-oriented word embeddings and layered attention | Paper | Dataset | Code | |
+| | SNAP-BATNET: Cascading author profiling and social network graphs for suicide ideation detection on social media | Paper | Dataset | Code | |
+| | Cooperative multimodal approach to depression detection in Twitter | Paper | Dataset | Code | |
+| | Detection of depression-related posts in reddit social media forum | Paper | Dataset | Code | |
+| | Detecting Early Risk of Depression from Social Media User-generated Content | Paper | Dataset | Code | |
 
 # Supporting theories for suicide
 
