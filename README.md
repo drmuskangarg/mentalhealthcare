@@ -4,22 +4,19 @@ This project is associated with the positional paper on Mental Health Analysis o
 
 # Available Datasets 
 
-1. d1: Data Mining/ Natural language Processing for social media
-2. d2: Integrated applications: Data mining and user network modeling
-3. d3: User and network modeling on social networks
-
-1. Haque, A., Reddi, V., & Giallanza, T. (2021). [Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction.](https://arxiv.org/pdf/2102.09427.pdf) arXiv preprint arXiv:2102.09427. [Link](https://github.com/ayaanzhaque/SDCNL)
-2. Yates, A., Cohan, A., & Goharian, N. (2017). [Depression and self-harm risk assessment in online forums.](https://arxiv.org/pdf/1709.01848.pdf) arXiv preprint arXiv:1709.01848. Available via signed agreement. [Link](http://ir.cs.georgetown.edu/resources/rsdd.html)
-3. Cohan, A., Desmet, B., Yates, A., Soldaini, L., MacAvaney, S., & Goharian, N. (2018). [SMHD: a large-scale resource for exploring online language usage for multiple mental health conditions.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Smhd%3A+a+large-scale+resource+for+exploring+online+language+usage+for+multiple+mental+health+conditions&btnG=) arXiv preprint arXiv:1806.05258. [Link](http://ir.cs.georgetown.edu/resources/smhd.html)
-4. Shen, T., Jia, J., Shen, G., Feng, F., He, X., Luan, H., ... & Hall, W. (2018). [Cross-domain depression detection via harvesting social media.](https://eprints.soton.ac.uk/423226/1/IJCAI18_Shen_et_al_depression_detection.pdf) International Joint Conferences on Artificial Intelligence: [Link](https://github.com/sunlightsgy/MDDL)
-5. Pirina, I., & Çöltekin, Ç. (2018, October). [Identifying depression on reddit: The effect of training data.](https://aclanthology.org/W18-5903.pdf) In Proceedings of the 2018 EMNLP Workshop SMM4H: The 3rd Social Media Mining for Health Applications Workshop & Shared Task [Link]( https://files.pushshift.io/reddit/submissions/)
-6. Turcan, E., & McKeown, K. (2019). [Dreaddit: A Reddit dataset for stress analysis in social media.](https://arxiv.org/pdf/1911.00133.pdf) arXiv preprint arXiv:1911.00133. [Link](http://www.cs.columbia.edu/~eturcan/data/dreaddit.zip)
-7. Ji, Shaoxiong, Celina Ping Yu, Sai-fu Fung, Shirui Pan, and Guodong Long. ["Supervised learning for suicidal ideation detection in online user content."](https://www.hindawi.com/journals/complexity/2018/6157249/) Complexity 2018 [Link]( https://github.com/shaoxiongji/sw-detection)
-8. Losada, D. E., Crestani, F., & Parapar, J. (2018, September). [Overview of eRisk: early risk prediction on the internet.](https://tec.citius.usc.es/ir/pdf/eRisk2018LNCS.pdf) In International conference of the cross-language evaluation forum for european languages 
-9. Gaur, M., Alambo, A., Sain, J. P., Kursuncu, U., Thirunarayan, K., Kavuluru, R., Sheth, A., Welton, R. and Pathak, J. (2019, May). [Knowledge-aware assessment of severity of suicide risk for early intervention.](https://dl.acm.org/doi/pdf/10.1145/3308558.3313698?casa_token=ZI5GX1Cv60IAAAAA:vTvADTR8bxHCOtmI8sqE2zIPL6gdB0M51OlhRJRJfJI34h96TkUVl4-TtMCEJT9vmJsl30YeU0ah) In The world wide web conference [Link](https://github.com/AmanuelF/Suicide-Risk-Assessment-using-Reddit)
-10. Han-Chin Shing, Suraj Nair, Ayah Zirikly, Meir Friedenberg, Hal Daumé III, Philip Resnik. [Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings](https://aclanthology.org/W18-0603.pdf). Proceedings of the Fifth Workshop on Computational Linguistics and Clinical Psychology: From Keyboard to Clinic
-11. [A Chinese dataset](https://github.com/bryant03/Sina-Weibo-Dataset)
-12. https://erisk.irlab.org/eRisk2021.html
+| **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
+| ----------------- | ---------------------- |---------------------- |------------------------ |
+| SDCNL | Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction.| [Paper](https://arxiv.org/pdf/2102.09427.pdf) | [Dataset](https://github.com/ayaanzhaque/SDCNL) | 
+| RSDD | Depression and self-harm risk assessment in online forums | [Paper](https://arxiv.org/pdf/1709.01848.pdf)| [Dataset](http://ir.cs.georgetown.edu/resources/rsdd.html)|
+| SMHD | SMHD: a large-scale resource for exploring online language usage for multiple mental health conditions | Paper | [Dataset](http://ir.cs.georgetown.edu/resources/smhd.html)|
+| MDDL | Cross-domain depression detection via harvesting social media. | [Paper](https://eprints.soton.ac.uk/423226/1/IJCAI18_Shen_et_al_depression_detection.pdf) | [Dataset](https://github.com/sunlightsgy/MDDL)|
+| SMM4H | Identifying depression on reddit: The effect of training data. | [Paper](https://aclanthology.org/W18-5903.pdf) | [Dataset](https://files.pushshift.io/reddit/submissions/) |
+| Dreaddit |  Dreaddit: A Reddit dataset for stress analysis in social media. | [Paper](https://arxiv.org/pdf/1911.00133.pdf) | [Dataset](http://www.cs.columbia.edu/~eturcan/data/dreaddit.zip) |
+|  | Supervised learning for suicidal ideation detection in online user content. | [Paper](https://www.hindawi.com/journals/complexity/2018/6157249/) | [Dataset]( https://github.com/shaoxiongji/sw-detection) |
+| eRISK | Overview of eRisk: early risk prediction on the internet. | [Paper](https://tec.citius.usc.es/ir/pdf/eRisk2018LNCS.pdf) | [Dataset](https://erisk.irlab.org/eRisk2021.html) |
+| SRAR | Knowledge-aware assessment of severity of suicide risk for early intervention. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313698?casa_token=ZI5GX1Cv60IAAAAA:vTvADTR8bxHCOtmI8sqE2zIPL6gdB0M51OlhRJRJfJI34h96TkUVl4-TtMCEJT9vmJsl30YeU0ah) | [Dataset](https://github.com/AmanuelF/Suicide-Risk-Assessment-using-Reddit) |
+|  | Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings | Paper | Dataset |
+| A Chinese Dataset |  | Paper | [Dataset](https://github.com/bryant03/Sina-Weibo-Dataset) |
 
 # Tools and other Resources
 1. [The Tweepy API](https://docs.tweepy.org/en/stable/api.html)
