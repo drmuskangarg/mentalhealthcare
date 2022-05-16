@@ -1,6 +1,6 @@
 
 # Reading List for Mental Health Detection and Analysis on Social Media
-This project is associated with the positional paper on Mental Health Analysis on Social Media: Resources, Advances and New Frontiers. For a decade now, the exponential growth is observed in computational intelligence techniques for mental illness detection and analysis on social media. 
+This project is associated with the survey paper on Social Computing for Mental Health Analysis: A Survey. For a decade now, the exponential growth is observed in computational intelligence techniques for mental illness detection and analysis on social media. 
 
 # Available Datasets 
 
@@ -36,23 +36,23 @@ This project is associated with the positional paper on Mental Health Analysis o
 # Recent Advances: Features and Methods
 
 
-| **Title of the Paper**       | **Link of the Paper** | **Link of the Dataset** | **Link of the Code** | **Results** |
-| ---------------------------- | --------------------- |------------------------ |--------------------- |-------------|
-| Exploring and learning suicidal ideation connotations on social media with deep learning. | [Paper](https://aclanthology.org/W18-6223.pdf) | Dataset| Code |  |
-| A computational approach to feature extraction for identification of suicidal ideation in tweets. | [Paper](https://aclanthology.org/P18-3013.pdf) | Dataset| Code |  |
-| Exploring the impact of evolutionary computing based feature selection in suicidal ideation detection. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8858989) | Dataset| Code |  |
-| Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction. | [Paper](https://arxiv.org/pdf/2102.09427.pdf) | Dataset| Code |  |
-| Emotion-Infused Models for Explainable Psychological Stress Detection. | [Paper](https://aclanthology.org/2021.naacl-main.230.pdf) | Dataset| Code |  |
-| Multimodal mental health analysis in social media. | [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226248) | Dataset| Code |  |
-| Feature Attention Network: Interpretable Depression Detection from Social Media. | [Paper](https://aclanthology.org/Y18-1070.pdf)| Dataset| Code |  |
-| Building and using personal knowledge graph to improve suicidal ideation detection on social media. IEEE Transactions on Multimedia.| [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/09308975.pdf?casa_token=NVcN4VExBigAAAAA:nQG-ZQaKsJcrcTpnsWHUN301Jg9wZapbdy4JUt4gAmdEsEoL0njDvw6hQvS6pbMvWShkNIFF)| Dataset| Code |  |
-| A hybridized feature extraction approach to suicidal ideation detection from social media post. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230733&casa_token=TYz9cnMmXssAAAAA:W_YLdEx03k-xN4s67PYticy7t8uYv_D8c0v1IK2FCNRwsws5H-G5NbfbaYit3J4gzLFHdXCC)| Dataset| Code |  |
-| Sensemood: Depression detection on social media. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3372278.3391932?casa_token=qr_9LHm3WNsAAAAA:Ulea6DRqLb2bw9WrBNvA5ejT5MNed2V1aLZQORzY992B26QLdq3R9DWNh22VHoPC8v3kWPjcNryZ) | Dataset| Code |  |
-| Cooperative multimodal approach to depression detection in Twitter. | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/3775) | Dataset| Code |  |
-| A time-aware transformer based model for suicide ideation detection on social media. | [Paper](https://aclanthology.org/2020.emnlp-main.619.pdf) | Dataset| Code |  |
-| PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media. | [Paper](https://aclanthology.org/2021.eacl-main.205.pdf) | Dataset| Code |  |
-| DepressionNet: A Novel Summarization Boosted Deep Framework for Depression Detection on Social Media. | [Paper](https://arxiv.org/pdf/2105.10878.pdf) | Dataset| Code |  |
-| Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data. | [Paper](https://arxiv.org/pdf/2105.13430.pdf) | Dataset| Code |  |
+|**Year**| **Title of the Paper**       | **Link of the Paper** | **Link of the Dataset** | **Link of the Code** | **Results** |
+|| ---------------------------- | --------------------- |------------------------ |--------------------- |-------------|
+|| Exploring and learning suicidal ideation connotations on social media with deep learning. | [Paper](https://aclanthology.org/W18-6223.pdf) | Dataset| Code |  |
+|| A computational approach to feature extraction for identification of suicidal ideation in tweets. | [Paper](https://aclanthology.org/P18-3013.pdf) | Dataset| Code |  |
+| |Exploring the impact of evolutionary computing based feature selection in suicidal ideation detection. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8858989) | Dataset| Code |  |
+| |Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction. | [Paper](https://arxiv.org/pdf/2102.09427.pdf) | Dataset| Code |  |
+| |Emotion-Infused Models for Explainable Psychological Stress Detection. | [Paper](https://aclanthology.org/2021.naacl-main.230.pdf) | Dataset| Code |  |
+| |Multimodal mental health analysis in social media. | [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226248) | Dataset| Code |  |
+|| Feature Attention Network: Interpretable Depression Detection from Social Media. | [Paper](https://aclanthology.org/Y18-1070.pdf)| Dataset| Code |  |
+| |Building and using personal knowledge graph to improve suicidal ideation detection on social media. IEEE Transactions on Multimedia.| [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/09308975.pdf?casa_token=NVcN4VExBigAAAAA:nQG-ZQaKsJcrcTpnsWHUN301Jg9wZapbdy4JUt4gAmdEsEoL0njDvw6hQvS6pbMvWShkNIFF)| Dataset| Code |  |
+| |A hybridized feature extraction approach to suicidal ideation detection from social media post. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230733&casa_token=TYz9cnMmXssAAAAA:W_YLdEx03k-xN4s67PYticy7t8uYv_D8c0v1IK2FCNRwsws5H-G5NbfbaYit3J4gzLFHdXCC)| Dataset| Code |  |
+| |Sensemood: Depression detection on social media. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3372278.3391932?casa_token=qr_9LHm3WNsAAAAA:Ulea6DRqLb2bw9WrBNvA5ejT5MNed2V1aLZQORzY992B26QLdq3R9DWNh22VHoPC8v3kWPjcNryZ) | Dataset| Code |  |
+| |Cooperative multimodal approach to depression detection in Twitter. | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/3775) | Dataset| Code |  |
+| |A time-aware transformer based model for suicide ideation detection on social media. | [Paper](https://aclanthology.org/2020.emnlp-main.619.pdf) | Dataset| Code |  |
+| |PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media. | [Paper](https://aclanthology.org/2021.eacl-main.205.pdf) | Dataset| Code |  |
+| |DepressionNet: A Novel Summarization Boosted Deep Framework for Depression Detection on Social Media. | [Paper](https://arxiv.org/pdf/2105.10878.pdf) | Dataset| Code |  |
+| |Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data. | [Paper](https://arxiv.org/pdf/2105.13430.pdf) | Dataset| Code |  |
 
 
 
