@@ -53,7 +53,10 @@ This project is associated with the survey paper on Social Computing for Mental 
 | |PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media. | [Paper](https://aclanthology.org/2021.eacl-main.205.pdf) | Dataset| Code |  |
 | |DepressionNet: A Novel Summarization Boosted Deep Framework for Depression Detection on Social Media. | [Paper](https://arxiv.org/pdf/2105.10878.pdf) | Dataset| Code |  |
 | |Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data. | [Paper](https://arxiv.org/pdf/2105.13430.pdf) | Dataset| Code |  |
-
+| |Find supports for the post about mental issues: More than semantic matching. | Paper | Dataset| Code |  |
+| |Deep learning for depression detection from textual data.| Paper | Dataset| Code |  |
+| |Deep learning for depression detection from textual data.| Paper | Dataset| Code |  |
+| 2021 | Towards ordinal suicide ideation detection on social media. | Paper | Dataset | Code | |
 
 
 # Supporting theories for suicide
