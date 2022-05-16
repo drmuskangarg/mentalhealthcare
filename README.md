@@ -21,14 +21,14 @@ This project is associated with the positional paper on Mental Health Analysis o
 
 # Tools and other Resources
 
-1 **APIs for Data Extraction**
+**APIs for Data Extraction**
 
 1. Twitter: [The Tweepy API](https://docs.tweepy.org/en/stable/api.html)
 2. Reddit: [Python Reddit API Wrapper (PRAW) API]( https://praw.readthedocs.io/en/stable/index.html)
 3. Gab: [The garc API](https://pypi.org/project/garc/)
 4. Facebook: [Graph API](https://pypi.org/project/python-facebook-api/)
 
-2. **Processing Social Media**
+**Processing Social Media**
 
 1. Human text analysis package for social media and social scientific applications: [DLATK](https://dlatk.wwbp.org/)
 2. Social Network Analysis: [Pajek](https://pypi.org/project/pajek-tools/), [Gephi](https://gephi.wordpress.com/tag/python/), [igraph](https://igraph.org/python/) and [NetworkX](https://networkx.org/).
