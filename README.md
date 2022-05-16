@@ -38,7 +38,7 @@ This project is associated with the survey paper on Social Computing for Mental 
 
 |**Year**| **Title of the Paper**       | **Link of the Paper** | **Link of the Dataset** | **Link of the Code** | **Results** |
 |--------| ---------------------------- | --------------------- |------------------------ |--------------------- |-------------|
-| 2018| Exploring and learning suicidal ideation connotations on social media with deep learning. | [Paper](https://aclanthology.org/W18-6223.pdf) | _Auth*_ | Code | F1: 82.7% |
+| 2018| Exploring and learning suicidal ideation connotations on social media with deep learning. | [Paper](https://aclanthology.org/W18-6223.pdf) | _Auth*_ | NA | F1: 82.7% |
 | |Exploring the impact of evolutionary computing based feature selection in suicidal ideation detection. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8858989) | Dataset| Code |  |
 | |Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction. | [Paper](https://arxiv.org/pdf/2102.09427.pdf) | Dataset| Code |  |
 | |Emotion-Infused Models for Explainable Psychological Stress Detection. | [Paper](https://aclanthology.org/2021.naacl-main.230.pdf) | Dataset| Code |  |
