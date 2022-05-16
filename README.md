@@ -17,12 +17,21 @@ This project is associated with the positional paper on Mental Health Analysis o
 | SRAR | Knowledge-aware assessment of severity of suicide risk for early intervention. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313698?casa_token=ZI5GX1Cv60IAAAAA:vTvADTR8bxHCOtmI8sqE2zIPL6gdB0M51OlhRJRJfJI34h96TkUVl4-TtMCEJT9vmJsl30YeU0ah) | [Dataset](https://github.com/AmanuelF/Suicide-Risk-Assessment-using-Reddit) |
 |  | Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings | Paper | Dataset |
 | A Chinese Dataset |  | Paper | [Dataset](https://github.com/bryant03/Sina-Weibo-Dataset) |
+| CAMS | CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts | Paper | Dataset |
 
 # Tools and other Resources
-1. [The Tweepy API](https://docs.tweepy.org/en/stable/api.html)
-2. [Python Reddit API Wrapper (PRAW) API]( https://praw.readthedocs.io/en/stable/index.html)
-3. [The garc API](https://pypi.org/project/garc/)
-4. [Graph API](https://pypi.org/project/python-facebook-api/)
+
+1 **APIs for Data Extraction**
+
+1. Twitter: [The Tweepy API](https://docs.tweepy.org/en/stable/api.html)
+2. Reddit: [Python Reddit API Wrapper (PRAW) API]( https://praw.readthedocs.io/en/stable/index.html)
+3. Gab: [The garc API](https://pypi.org/project/garc/)
+4. Facebook: [Graph API](https://pypi.org/project/python-facebook-api/)
+
+2. **Processing Social Media**
+
+1. Human text analysis package for social media and social scientific applications: [DLATK](https://dlatk.wwbp.org/)
+2. Social Network Analysis: [Pajek](https://pypi.org/project/pajek-tools/), [Gephi](https://gephi.wordpress.com/tag/python/), [igraph](https://igraph.org/python/) and [NetworkX](https://networkx.org/).
 
 # Recent Advances: Features
 1. Gligorić, K., Anderson, A., & West, R. (2018, June). [How constraints affect content: The case of Twitter’s switch from 140 to 280 characters.](https://ojs.aaai.org/index.php/ICWSM/article/view/15079) In Proceedings of the International AAAI Conference on Web and Social Media.
