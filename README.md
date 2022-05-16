@@ -33,31 +33,28 @@ This project is associated with the positional paper on Mental Health Analysis o
 1. Human text analysis package for social media and social scientific applications: [DLATK](https://dlatk.wwbp.org/)
 2. Social Network Analysis: [Pajek](https://pypi.org/project/pajek-tools/), [Gephi](https://gephi.wordpress.com/tag/python/), [igraph](https://igraph.org/python/) and [NetworkX](https://networkx.org/).
 
-# Recent Advances: Features
-1. Gligorić, K., Anderson, A., & West, R. (2018, June). [How constraints affect content: The case of Twitter’s switch from 140 to 280 characters.](https://ojs.aaai.org/index.php/ICWSM/article/view/15079) In Proceedings of the International AAAI Conference on Web and Social Media.
-2. Garg, M. (2021). [A survey on different dimensions for graphical keyword extraction techniques.](https://link.springer.com/article/10.1007/s10462-021-10010-6) Artificial Intelligence Review, 54(6), 4731-4770.
-
-# Recent Advances: Methods 
-
-1. Sawhney, R., Manchanda, P., Mathur, P., Shah, R., & Singh, R. (2018, October).[ Exploring and learning suicidal ideation connotations on social media with deep learning.](https://aclanthology.org/W18-6223.pdf) In Proceedings of the 9th workshop on computational approaches to subjectivity, sentiment and social media analysis (pp. 167-175).
-2. Data Collection Approach: Sawhney, R., Manchanda, P., Singh, R., & Aggarwal, S. (2018, July).[ A computational approach to feature extraction for identification of suicidal ideation in tweets.](https://aclanthology.org/P18-3013.pdf) In Proceedings of ACL 2018, Student Research Workshop (pp. 91-98).
-3. Feature Selection using Evolutionary Computing: Sawhney, R., Shah, R. R., Bhatia, V., Lin, C. T., Aggarwal, S., & Prasad, M. (2019, June). [Exploring the impact of evolutionary computing based feature selection in suicidal ideation detection. ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8858989)In 2019 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-6). IEEE.
-6. Turcan, E., Muresan, S., & McKeown, K. (2021, June). [Emotion-Infused Models for Explainable Psychological Stress Detection.](https://aclanthology.org/2021.naacl-main.230.pdf) In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 2895-2909). **EXPLAINABILITY**
-7. Noisy Label problem in data annotation: Haque, A., Reddi, V., & Giallanza, T. (2021). [Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction.](https://arxiv.org/pdf/2102.09427.pdf) arXiv preprint arXiv:2102.09427.
-8. Yazdavar, A. H., Mahdavinejad, M. S., Bajaj, G., Romine, W., Sheth, A., Monadjemi, A. H., ... & Hitzler, P. (2020). [Multimodal mental health analysis in social media.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226248) Plos one, 15(4), e0226248.
+# Recent Advances: Features and Methods
 
 
-1. Song, H., You, J., Chung, J. W., & Park, J. C. (2018). [Feature Attention Network: Interpretable Depression Detection from Social Media.](https://aclanthology.org/Y18-1070.pdf) In Proceedings of the 32nd Pacific Asia Conference on Language, Information and Computation. **EXPLAINABILITY**
-2. Cao, L., Zhang, H., & Feng, L. (2020). [Building and using personal knowledge graph to improve suicidal ideation detection on social media. IEEE Transactions on Multimedia.](https://ieeexplore.ieee.org/iel7/6046/4456689/09308975.pdf?casa_token=NVcN4VExBigAAAAA:nQG-ZQaKsJcrcTpnsWHUN301Jg9wZapbdy4JUt4gAmdEsEoL0njDvw6hQvS6pbMvWShkNIFF) **EXPLAINABILITY** 
-3. Shah, F. M., Haque, F., Nur, R. U., Al Jahan, S., & Mamud, Z. (2020, June). [A hybridized feature extraction approach to suicidal ideation detection from social media post.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230733&casa_token=TYz9cnMmXssAAAAA:W_YLdEx03k-xN4s67PYticy7t8uYv_D8c0v1IK2FCNRwsws5H-G5NbfbaYit3J4gzLFHdXCC)In 2020 IEEE Region 10 Symposium (TENSYMP) (pp. 985-988). IEEE.
-4. Lin, C., Hu, P., Su, H., Li, S., Mei, J., Zhou, J., & Leung, H. (2020, June). [Sensemood: Depression detection on social media.](https://dl.acm.org/doi/pdf/10.1145/3372278.3391932?casa_token=qr_9LHm3WNsAAAAA:Ulea6DRqLb2bw9WrBNvA5ejT5MNed2V1aLZQORzY992B26QLdq3R9DWNh22VHoPC8v3kWPjcNryZ) In Proceedings of the 2020 International Conference on Multimedia Retrieval (pp. 407-411).
-5. Gui, T., Zhu, L., Zhang, Q., Peng, M., Zhou, X., Ding, K., & Chen, Z. (2019, July). [Cooperative multimodal approach to depression detection in Twitter.](https://ojs.aaai.org/index.php/AAAI/article/view/3775) In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 110-117).
+| **Title of the Paper**       | **Link of the Paper** | **Link of the Dataset** | **Link of the Code** | **Results** |
+| ---------------------------- | --------------------- |------------------------ |--------------------- |-------------|
+| Exploring and learning suicidal ideation connotations on social media with deep learning. | [Paper](https://aclanthology.org/W18-6223.pdf) | Dataset| Code |  |
+| A computational approach to feature extraction for identification of suicidal ideation in tweets. | [Paper](https://aclanthology.org/P18-3013.pdf) | Dataset| Code |  |
+| Exploring the impact of evolutionary computing based feature selection in suicidal ideation detection. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8858989) | Dataset| Code |  |
+| Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction. | [Paper](https://arxiv.org/pdf/2102.09427.pdf) | Dataset| Code |  |
+| Emotion-Infused Models for Explainable Psychological Stress Detection. | [Paper](https://aclanthology.org/2021.naacl-main.230.pdf) | Dataset| Code |  |
+| Multimodal mental health analysis in social media. | [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226248) | Dataset| Code |  |
+| Feature Attention Network: Interpretable Depression Detection from Social Media. | [Paper](https://aclanthology.org/Y18-1070.pdf)| Dataset| Code |  |
+| Building and using personal knowledge graph to improve suicidal ideation detection on social media. IEEE Transactions on Multimedia.| [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/09308975.pdf?casa_token=NVcN4VExBigAAAAA:nQG-ZQaKsJcrcTpnsWHUN301Jg9wZapbdy4JUt4gAmdEsEoL0njDvw6hQvS6pbMvWShkNIFF)| Dataset| Code |  |
+| A hybridized feature extraction approach to suicidal ideation detection from social media post. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230733&casa_token=TYz9cnMmXssAAAAA:W_YLdEx03k-xN4s67PYticy7t8uYv_D8c0v1IK2FCNRwsws5H-G5NbfbaYit3J4gzLFHdXCC)| Dataset| Code |  |
+| Sensemood: Depression detection on social media. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3372278.3391932?casa_token=qr_9LHm3WNsAAAAA:Ulea6DRqLb2bw9WrBNvA5ejT5MNed2V1aLZQORzY992B26QLdq3R9DWNh22VHoPC8v3kWPjcNryZ) | Dataset| Code |  |
+| Cooperative multimodal approach to depression detection in Twitter. | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/3775) | Dataset| Code |  |
+| A time-aware transformer based model for suicide ideation detection on social media. | [Paper](https://aclanthology.org/2020.emnlp-main.619.pdf) | Dataset| Code |  |
+| PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media. | [Paper](https://aclanthology.org/2021.eacl-main.205.pdf) | Dataset| Code |  |
+| DepressionNet: A Novel Summarization Boosted Deep Framework for Depression Detection on Social Media. | [Paper](https://arxiv.org/pdf/2105.10878.pdf) | Dataset| Code |  |
+| Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data. | [Paper](https://arxiv.org/pdf/2105.13430.pdf) | Dataset| Code |  |
 
-## Explainability
-1. Time-aware Transformer: Sawhney, R., Joshi, H., Gandhi, S., & Shah, R. (2020, November).[ A time-aware transformer based model for suicide ideation detection on social media. ](https://aclanthology.org/2020.emnlp-main.619.pdf)In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 7685-7697).
-2.  Checking out the historical timeline of the user: Sawhney, R., Joshi, H., Flek, L., & Shah, R. (2021, April).[ PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media.](https://aclanthology.org/2021.eacl-main.205.pdf) In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume (pp. 2415-2428).
-3. Zogan, H., Razzak, I., Jameel, S., & Xu, G. (2021). [DepressionNet: A Novel Summarization Boosted Deep Framework for Depression Detection on Social Media.](https://arxiv.org/pdf/2105.10878.pdf) arXiv preprint arXiv:2105.10878. 
-4.  Hu, Y., & Sokolova, M. (2021). [Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data.](https://arxiv.org/pdf/2105.13430.pdf) arXiv preprint arXiv:2105.13430.
+
 
 # Supporting theories for suicide
 
