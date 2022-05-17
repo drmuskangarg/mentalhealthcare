@@ -55,8 +55,8 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | 2022|Find supports for the post about mental issues: More than semantic matching. | [Paper](https://dl.acm.org/doi/10.1145/3508373) | Auth*| NA | F1: 83.67% |
 | 2022|Deep learning for depression detection from textual data.| [Paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiE_p_41uX3AhVJBKYKHdPVCxcQFnoECAsQAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2079-9292%2F11%2F5%2F676%2Fpdf&usg=AOvVaw3bc_HQMD7NtKBYBq55p774) | [Dataset](https://www.kaggle.com/hyunkic/twitter-depression-dataset )| NA |  F1: 98%|
 | 2021 | Towards ordinal suicide ideation detection on social media. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441805) | [Dataset](https://github.com/AmanuelF/Suicide-Risk-Assessment-using-Reddit) | [Code](https://github.com/midas-research/sismo-wsdm) |F1: 73% |
-| 2021 | Depression detection with multi-modalities using a hybrid deep learning model on social media | Paper | Dataset | Code | |
-| 2021 |  Detection of depression-related posts in reddit social media forum | Paper | Dataset | Code | |
+| 2021 | Depression detection with multi-modalities using a hybrid deep learning model on social media | Paper | [Dataset](https://github.com/sunlightsgy/MDDL) | NA | F1: 91.2%|
+| 2021 |  Detection of depression-related posts in reddit social media forum | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8681445) | Auth* | NA | F1: 93.4%|
 |  | Dual attention based suicide risk detection on social media | Paper | Dataset | Code | |
 | | Latent suicide risk detection on microblog via suicide-oriented word embeddings and layered attention | Paper | Dataset | Code | |
 | | SNAP-BATNET: Cascading author profiling and social network graphs for suicide ideation detection on social media | Paper | Dataset | Code | |
