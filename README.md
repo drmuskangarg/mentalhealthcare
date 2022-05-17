@@ -1,6 +1,6 @@
 
 # Reading List for Mental Health Detection and Analysis on Social Media
-This project is associated with the survey paper on Social Computing for Mental Health Analysis: A Survey. For a decade now, the exponential growth is observed in computational intelligence techniques for mental illness detection and analysis on social media. 
+This project is associated with the survey paper on ***"Social Computing for Mental Health Analysis: A Survey"***. For a decade now, the exponential growth is observed in computational intelligence techniques for mental illness detection and analysis on social media. 
 
 # Available Datasets 
 
@@ -8,15 +8,15 @@ This project is associated with the survey paper on Social Computing for Mental 
 | ----------------- | ---------------------- |---------------------- |------------------------ |
 | SDCNL | Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction.| [Paper](https://arxiv.org/pdf/2102.09427.pdf) | [Dataset](https://github.com/ayaanzhaque/SDCNL) | 
 | RSDD | Depression and self-harm risk assessment in online forums | [Paper](https://arxiv.org/pdf/1709.01848.pdf)| [Dataset](http://ir.cs.georgetown.edu/resources/rsdd.html)|
-| SMHD | SMHD: a large-scale resource for exploring online language usage for multiple mental health conditions | Paper | [Dataset](http://ir.cs.georgetown.edu/resources/smhd.html)|
+| SMHD | SMHD: a large-scale resource for exploring online language usage for multiple mental health conditions | [Paper](https://arxiv.org/pdf/1806.05258.pdf) | [Dataset](http://ir.cs.georgetown.edu/resources/smhd.html)|
 | MDDL | Cross-domain depression detection via harvesting social media. | [Paper](https://eprints.soton.ac.uk/423226/1/IJCAI18_Shen_et_al_depression_detection.pdf) | [Dataset](https://github.com/sunlightsgy/MDDL)|
 | SMM4H | Identifying depression on reddit: The effect of training data. | [Paper](https://aclanthology.org/W18-5903.pdf) | [Dataset](https://files.pushshift.io/reddit/submissions/) |
 | Dreaddit |  Dreaddit: A Reddit dataset for stress analysis in social media. | [Paper](https://arxiv.org/pdf/1911.00133.pdf) | [Dataset](http://www.cs.columbia.edu/~eturcan/data/dreaddit.zip) |
-|  | Supervised learning for suicidal ideation detection in online user content. | [Paper](https://www.hindawi.com/journals/complexity/2018/6157249/) | [Dataset]( https://github.com/shaoxiongji/sw-detection) |
+|A Reddit and Twitter dataset | Supervised learning for suicidal ideation detection in online user content. | [Paper](https://www.hindawi.com/journals/complexity/2018/6157249/) | [Dataset]( https://github.com/shaoxiongji/sw-detection) |
 | eRISK | Overview of eRisk: early risk prediction on the internet. | [Paper](https://tec.citius.usc.es/ir/pdf/eRisk2018LNCS.pdf) | [Dataset](https://erisk.irlab.org/eRisk2021.html) |
 | SRAR | Knowledge-aware assessment of severity of suicide risk for early intervention. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313698?casa_token=ZI5GX1Cv60IAAAAA:vTvADTR8bxHCOtmI8sqE2zIPL6gdB0M51OlhRJRJfJI34h96TkUVl4-TtMCEJT9vmJsl30YeU0ah) | [Dataset](https://github.com/AmanuelF/Suicide-Risk-Assessment-using-Reddit) |
-|  | Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings | Paper | Dataset |
-| A Chinese Dataset |  | Paper | [Dataset](https://github.com/bryant03/Sina-Weibo-Dataset) |
+| A Reddit dataset | Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings | [Paper](https://aclanthology.org/W18-0603.pdf) | [Dataset: (on request)](http://users.umiacs.umd.edu/~resnik/umd_reddit_suicidality_dataset.html) |
+| A Sina microblog dataset | Latent Suicide Risk Detection on Microblog via Suicide-Oriented Word Embeddings and Layered Attention | [Paper](https://aclanthology.org/D19-1181.pdf) | [Dataset:  (on request)](https://github.com/bryant03/Sina-Weibo-Dataset) |
 | CAMS | CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts | Paper | Dataset |
 
 # Tools and other Resources
