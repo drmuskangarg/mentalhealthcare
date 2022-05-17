@@ -51,7 +51,6 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | 2022|Deep learning for depression detection from textual data.| [Paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiE_p_41uX3AhVJBKYKHdPVCxcQFnoECAsQAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2079-9292%2F11%2F5%2F676%2Fpdf&usg=AOvVaw3bc_HQMD7NtKBYBq55p774) | [Auth*(k)](https://www.kaggle.com/hyunkic/twitter-depression-dataset )| NA |  F1: 98%|
 | 2021 | Towards ordinal suicide ideation detection on social media. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441805) | [SRAR](https://github.com/AmanuelF/Suicide-Risk-Assessment-using-Reddit) | [Code](https://github.com/midas-research/sismo-wsdm) |F1: 73% |
 | 2021 | Depression detection with multi-modalities using a hybrid deep learning model on social media | Paper | [MDDL](https://github.com/sunlightsgy/MDDL) | NA | F1: 91.2%|
-| 2020 | Dual attention based suicide risk detection on social media | [Paper](https://ieeexplore.ieee.org/abstract/document/9182380) | Auth*| NA |F1: 91.54% |
 | 2014| Psychological stress detection from cross-media microblog data using Deep Sparse Neural Network| [Paper](https://ieeexplore.ieee.org/document/6890213) | eRisk | [Code](https://github.com/BigMiners/eRisk2017)|F1: 86.12% |
 | 2017| Detecting Early Risk of Depression from Social Media User-generated Content | [Paper](http://ceur-ws.org/Vol-1866/paper_127.pdf) | Auth* | NA |F1: 53% |
 | 2017| Detecting Stress Based on Social Interactions in Social Networks | [Paper](https://ieeexplore.ieee.org/document/7885098) | Auth* | NA |F1: 53% |
@@ -67,7 +66,8 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | 2019| Latent suicide risk detection on microblog via suicide-oriented word embeddings and layered attention | [Paper](https://aclanthology.org/D19-1181.pdf) | [Sina-W](https://github.com/bryant03/Sina-Weibo-Dataset) | NA |F1: 90.92% |
 |2020 |Sensemood: Depression detection on social media | [Paper](https://dl.acm.org/doi/pdf/10.1145/3372278.3391932?casa_token=qr_9LHm3WNsAAAAA:Ulea6DRqLb2bw9WrBNvA5ejT5MNed2V1aLZQORzY992B26QLdq3R9DWNh22VHoPC8v3kWPjcNryZ) | [MDDL](https://github.com/sunlightsgy/MDDL) |NA | F1: 93.60% |
 |2020 |Explainable Depression Detection with Multi-Modalities Using a Hybrid Deep Learning Model on Social Media | [Paper](https://arxiv.org/pdf/2007.02847.pdf) | [MDDL](https://github.com/sunlightsgy/MDDL) |NA | F1: 89.3% |
-|2020 |Building and using personal knowledge graph to improve suicidal ideation detection on social media. IEEE Transactions on Multimedia.| [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/09308975.pdf?casa_token=NVcN4VExBigAAAAA:nQG-ZQaKsJcrcTpnsWHUN301Jg9wZapbdy4JUt4gAmdEsEoL0njDvw6hQvS6pbMvWShkNIFF)| [Sina-W](https://github.com/bryant03/Sina-Weibo-Dataset)| NA |F1: 93.69% |
+|2020 |Building and using personal knowledge graph to improve suicidal ideation detection on social media| [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/09308975.pdf?casa_token=NVcN4VExBigAAAAA:nQG-ZQaKsJcrcTpnsWHUN301Jg9wZapbdy4JUt4gAmdEsEoL0njDvw6hQvS6pbMvWShkNIFF)| [Sina-W](https://github.com/bryant03/Sina-Weibo-Dataset)| NA |F1: 93.69% |
+| 2020 | Dual attention based suicide risk detection on social media | [Paper](https://ieeexplore.ieee.org/abstract/document/9182380) | Auth*| NA |F1: 91.54% |
 
 # Supporting theories for suicide
 
