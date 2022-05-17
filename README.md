@@ -43,7 +43,6 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | 2021|Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction. | [Paper](https://arxiv.org/pdf/2102.09427.pdf) | [SDCNL](https://github.com/ayaanzhaque/SDCNL)| [Code](https://github.com/ayaanzhaque/SDCNL) | F1: 95.44% |
 |2021 |Emotion-Infused Models for Explainable Psychological Stress Detection. | [Paper](https://aclanthology.org/2021.naacl-main.230.pdf) | [Dreaddit](http://www.cs.columbia.edu/~eturcan/data/dreaddit.zip)| [Code](https://github.com/eturcan/emotion-infused) | F1: 80.34% |
 |2020 |Multimodal mental health analysis in social media. | [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226248) | Dataset| Code |  |
-|2018| Feature Attention Network: Interpretable Depression Detection from Social Media. | [Paper](https://aclanthology.org/Y18-1070.pdf)| [RSDD](https://ir.cs.georgetown.edu/resources/rsdd.html)| NA | Better P |
 |2020 |Building and using personal knowledge graph to improve suicidal ideation detection on social media. IEEE Transactions on Multimedia.| [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/09308975.pdf?casa_token=NVcN4VExBigAAAAA:nQG-ZQaKsJcrcTpnsWHUN301Jg9wZapbdy4JUt4gAmdEsEoL0njDvw6hQvS6pbMvWShkNIFF)| [Sina-W](https://github.com/bryant03/Sina-Weibo-Dataset)| NA |F1: 93.69% |
 | 2020|A hybridized feature extraction approach to suicidal ideation detection from social media post. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230733&casa_token=TYz9cnMmXssAAAAA:W_YLdEx03k-xN4s67PYticy7t8uYv_D8c0v1IK2FCNRwsws5H-G5NbfbaYit3J4gzLFHdXCC)| Dataset| Code |  |
 |2020 |Sensemood: Depression detection on social media. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3372278.3391932?casa_token=qr_9LHm3WNsAAAAA:Ulea6DRqLb2bw9WrBNvA5ejT5MNed2V1aLZQORzY992B26QLdq3R9DWNh22VHoPC8v3kWPjcNryZ) | [MDDL](https://github.com/sunlightsgy/MDDL) |NA | F1: 93.60% |
@@ -60,10 +59,15 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | 2020 | Dual attention based suicide risk detection on social media | [Paper](https://ieeexplore.ieee.org/abstract/document/9182380) | Auth* | NA |F1: 91.54% |
 | 2019| Latent suicide risk detection on microblog via suicide-oriented word embeddings and layered attention | [Paper](https://aclanthology.org/D19-1181.pdf) | [Sina-W](https://github.com/bryant03/Sina-Weibo-Dataset) | NA |F1: 90.92% |
 | 2019| SNAP-BATNET: Cascading author profiling and social network graphs for suicide ideation detection on social media | [Paper](https://aclanthology.org/N19-3019.pdf) | [MDDL](https://github.com/sunlightsgy/MDDL) | NA | F1: 92.6%|
+
+| 2014| Psychological stress detection from cross-media microblog data using Deep Sparse Neural Network| [Paper](https://ieeexplore.ieee.org/document/6890213) | eRisk | [Code](https://github.com/BigMiners/eRisk2017)|F1: 86.12% |
 | 2017| Detecting Early Risk of Depression from Social Media User-generated Content | [Paper](http://ceur-ws.org/Vol-1866/paper_127.pdf) | Auth* | NA |F1: 53% |
 | 2017| Detecting Stress Based on Social Interactions in Social Networks | [Paper](https://ieeexplore.ieee.org/document/7885098) | Auth* | NA |F1: 53% |
-| 2017| Depression Detection via Harvesting Social Media: A Multimodal Dictionary Learning Solution | [Paper](https://www.ijcai.org/proceedings/2017/0536.pdf) | MDDL](https://github.com/sunlightsgy/MDDL) | NA |F1: 85% |
-| 2014| Psychological stress detection from cross-media microblog data using Deep Sparse Neural Network| [Paper](https://ieeexplore.ieee.org/document/6890213) | eRisk | [Code](https://github.com/BigMiners/eRisk2017)|F1: 86.12% |
+| 2017| Depression Detection via Harvesting Social Media: A Multimodal Dictionary Learning Solution | [Paper](https://www.ijcai.org/proceedings/2017/0536.pdf) | [MDDL](https://github.com/sunlightsgy/MDDL) | NA |F1: 85% |
+|2018| Feature Attention Network: Interpretable Depression Detection from Social Media. | [Paper](https://aclanthology.org/Y18-1070.pdf)| [RSDD](https://ir.cs.georgetown.edu/resources/rsdd.html)| NA | Better P |
+|2018| Deep Learning for Depression Detection of Twitter Users| [Paper](https://aclanthology.org/W18-0609.pdf)| CLPsych| NA |F1: 86.96% |
+
+
 # Supporting theories for suicide
 
 1. Klonsky, E. D., & May, A. M. (2015). The three-step theory (3ST):[ A new theory of suicide rooted in the “ideation-to-action” framework. ](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.7503&rep=rep1&type=pdf)International Journal of Cognitive Therapy, 8(2), 114-129.
