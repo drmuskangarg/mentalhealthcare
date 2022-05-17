@@ -15,8 +15,8 @@ This project is associated with the survey paper on ***"Social Computing for Men
 |A Reddit and Twitter dataset | Supervised learning for suicidal ideation detection in online user content. | [Paper](https://www.hindawi.com/journals/complexity/2018/6157249/) | [Dataset]( https://github.com/shaoxiongji/sw-detection) |
 | eRISK | Overview of eRisk: early risk prediction on the internet. | [Paper](https://tec.citius.usc.es/ir/pdf/eRisk2018LNCS.pdf) | [Dataset](https://erisk.irlab.org/eRisk2021.html) |
 | SRAR | Knowledge-aware assessment of severity of suicide risk for early intervention. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313698?casa_token=ZI5GX1Cv60IAAAAA:vTvADTR8bxHCOtmI8sqE2zIPL6gdB0M51OlhRJRJfJI34h96TkUVl4-TtMCEJT9vmJsl30YeU0ah) | [Dataset](https://github.com/AmanuelF/Suicide-Risk-Assessment-using-Reddit) |
-| A Reddit dataset | Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings | [Paper](https://aclanthology.org/W18-0603.pdf) | [Dataset: (on request)](http://users.umiacs.umd.edu/~resnik/umd_reddit_suicidality_dataset.html) |
-| A Sina microblog dataset | Latent Suicide Risk Detection on Microblog via Suicide-Oriented Word Embeddings and Layered Attention | [Paper](https://aclanthology.org/D19-1181.pdf) | [Dataset:  (on request)](https://github.com/bryant03/Sina-Weibo-Dataset) |
+| A Reddit dataset | Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings | [Paper](https://aclanthology.org/W18-0603.pdf) | [On request](http://users.umiacs.umd.edu/~resnik/umd_reddit_suicidality_dataset.html) |
+| A Sina microblog dataset | Latent Suicide Risk Detection on Microblog via Suicide-Oriented Word Embeddings and Layered Attention | [Paper](https://aclanthology.org/D19-1181.pdf) | [On request](https://github.com/bryant03/Sina-Weibo-Dataset) |
 | CAMS | CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts | Paper | Dataset |
 
 # Tools and other Resources
