@@ -62,6 +62,7 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | 2019| SNAP-BATNET: Cascading author profiling and social network graphs for suicide ideation detection on social media | [Paper](https://aclanthology.org/N19-3019.pdf) | [MDDL](https://github.com/sunlightsgy/MDDL) | NA | F1: 92.6%|
 | 2017| Detecting Early Risk of Depression from Social Media User-generated Content | [Paper](http://ceur-ws.org/Vol-1866/paper_127.pdf) | Auth* | NA |F1: 53% |
 | 2017| Detecting Stress Based on Social Interactions in Social Networks | [Paper](https://ieeexplore.ieee.org/document/7885098) | Auth* | NA |F1: 53% |
+| 2017| Depression Detection via Harvesting Social Media: A Multimodal Dictionary Learning Solution | [Paper](https://www.ijcai.org/proceedings/2017/0536.pdf) | MDDL](https://github.com/sunlightsgy/MDDL) | NA |F1: 85% |
 | 2014| Psychological stress detection from cross-media microblog data using Deep Sparse Neural Network| [Paper](https://ieeexplore.ieee.org/document/6890213) | eRisk | [Code](https://github.com/BigMiners/eRisk2017)|F1: 86.12% |
 # Supporting theories for suicide
 
