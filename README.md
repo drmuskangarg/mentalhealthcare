@@ -44,7 +44,6 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | 2020|A hybridized feature extraction approach to suicidal ideation detection from social media post. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230733&casa_token=TYz9cnMmXssAAAAA:W_YLdEx03k-xN4s67PYticy7t8uYv_D8c0v1IK2FCNRwsws5H-G5NbfbaYit3J4gzLFHdXCC)| Dataset| Code |  |
 |2020 |A time-aware transformer based model for suicide ideation detection on social media. | [Paper](https://aclanthology.org/2020.emnlp-main.619.pdf) | Auth*| [Code]( https://github.com/midas-research/STATENet_Time_Aware_Suicide_Assessment) | F1: 79.9% |
 | 2021|PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media. | [Paper](https://aclanthology.org/2021.eacl-main.205.pdf) | Auth*| [Code](https://github.com/midas-research/phase-eacl) |F1: 80.5%|
-|2021 |DepressionNet: A Novel Summarization Boosted Deep Framework for Depression Detection on Social Media. | [Paper](https://arxiv.org/pdf/2105.10878.pdf) | [MDDL](https://github.com/sunlightsgy/MDDL)| [Code](https://github.com/hzogan/DepressionNet) | F1: 91.2% |
 | 2021|Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data. | [Paper](https://arxiv.org/pdf/2105.13430.pdf) | Dataset| Code |  |
 | 2022|Find supports for the post about mental issues: More than semantic matching. | [Paper](https://dl.acm.org/doi/10.1145/3508373) | MH-QA| NA | F1: 83.67% |
 | 2022|Deep learning for depression detection from textual data.| [Paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiE_p_41uX3AhVJBKYKHdPVCxcQFnoECAsQAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2079-9292%2F11%2F5%2F676%2Fpdf&usg=AOvVaw3bc_HQMD7NtKBYBq55p774) | [Auth*(k)](https://www.kaggle.com/hyunkic/twitter-depression-dataset )| NA |  F1: 98%|
@@ -69,6 +68,7 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | 2020 | Dual attention based suicide risk detection on social media | [Paper](https://ieeexplore.ieee.org/abstract/document/9182380) | Auth*| NA |F1: 91.54% |
 | 2020 | Detection of Suicide Ideation in Social Media Forums Using Deep Learning | [Paper](https://www.mdpi.com/1999-4893/13/1/7) | Auth*| NA |F1: 93.4% |
 |2021 |Emotion-Infused Models for Explainable Psychological Stress Detection. | [Paper](https://aclanthology.org/2021.naacl-main.230.pdf) | [Dreaddit](http://www.cs.columbia.edu/~eturcan/data/dreaddit.zip)| [Code](https://github.com/eturcan/emotion-infused) | F1: 80.34% |
+|2021 |DepressionNet: A Novel Summarization Boosted Deep Framework for Depression Detection on Social Media. | [Paper](https://arxiv.org/pdf/2105.10878.pdf) | [MDDL](https://github.com/sunlightsgy/MDDL)| [Code](https://github.com/hzogan/DepressionNet) | F1: 91.2% |
 
 # Supporting theories for suicide
 
