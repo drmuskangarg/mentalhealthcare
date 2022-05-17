@@ -38,7 +38,7 @@ This project is associated with the survey paper on ***"Social Computing for Men
 
 |**Year**| **Title of the Paper**       | **Link of the Paper** | **Link of the Dataset** | **Link of the Code** | **Results** |
 |--------| ---------------------------- | --------------------- |------------------------ |--------------------- |-------------|
-| 2018| Exploring and learning suicidal ideation connotations on social media with deep learning. | [Paper](https://aclanthology.org/W18-6223.pdf) | _Auth*_ | NA | F1: 82.7% |
+
 |2019 |Exploring the impact of evolutionary computing based feature selection in suicidal ideation detection. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8858989) | Dataset| Code |  |
 | 2021|Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction. | [Paper](https://arxiv.org/pdf/2102.09427.pdf) | [SDCNL](https://github.com/ayaanzhaque/SDCNL)| [Code](https://github.com/ayaanzhaque/SDCNL) | F1: 95.44% |
 |2021 |Emotion-Infused Models for Explainable Psychological Stress Detection. | [Paper](https://aclanthology.org/2021.naacl-main.230.pdf) | [Dreaddit](http://www.cs.columbia.edu/~eturcan/data/dreaddit.zip)| [Code](https://github.com/eturcan/emotion-infused) | F1: 80.34% |
@@ -56,16 +56,17 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | 2021 | Towards ordinal suicide ideation detection on social media. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441805) | [SRAR](https://github.com/AmanuelF/Suicide-Risk-Assessment-using-Reddit) | [Code](https://github.com/midas-research/sismo-wsdm) |F1: 73% |
 | 2021 | Depression detection with multi-modalities using a hybrid deep learning model on social media | Paper | [MDDL](https://github.com/sunlightsgy/MDDL) | NA | F1: 91.2%|
 | 2021 |  Detection of depression-related posts in reddit social media forum | [Paper](https://ieeexplore.ieee.org/abstract/document/8681445) | Auth* | NA | F1: 93.4%|
-| 2020 | Dual attention based suicide risk detection on social media | [Paper](https://ieeexplore.ieee.org/abstract/document/9182380) | Auth* | NA |F1: 91.54% |
+| 2020 | Dual attention based suicide risk detection on social media | [Paper](https://ieeexplore.ieee.org/abstract/document/9182380) | _Auth*_ | NA |F1: 91.54% |
 | 2019| Latent suicide risk detection on microblog via suicide-oriented word embeddings and layered attention | [Paper](https://aclanthology.org/D19-1181.pdf) | [Sina-W](https://github.com/bryant03/Sina-Weibo-Dataset) | NA |F1: 90.92% |
 | 2019| SNAP-BATNET: Cascading author profiling and social network graphs for suicide ideation detection on social media | [Paper](https://aclanthology.org/N19-3019.pdf) | [MDDL](https://github.com/sunlightsgy/MDDL) | NA | F1: 92.6%|
-
 | 2014| Psychological stress detection from cross-media microblog data using Deep Sparse Neural Network| [Paper](https://ieeexplore.ieee.org/document/6890213) | eRisk | [Code](https://github.com/BigMiners/eRisk2017)|F1: 86.12% |
 | 2017| Detecting Early Risk of Depression from Social Media User-generated Content | [Paper](http://ceur-ws.org/Vol-1866/paper_127.pdf) | Auth* | NA |F1: 53% |
 | 2017| Detecting Stress Based on Social Interactions in Social Networks | [Paper](https://ieeexplore.ieee.org/document/7885098) | Auth* | NA |F1: 53% |
 | 2017| Depression Detection via Harvesting Social Media: A Multimodal Dictionary Learning Solution | [Paper](https://www.ijcai.org/proceedings/2017/0536.pdf) | [MDDL](https://github.com/sunlightsgy/MDDL) | NA |F1: 85% |
 |2018| Feature Attention Network: Interpretable Depression Detection from Social Media. | [Paper](https://aclanthology.org/Y18-1070.pdf)| [RSDD](https://ir.cs.georgetown.edu/resources/rsdd.html)| NA | Better P |
 |2018| Deep Learning for Depression Detection of Twitter Users| [Paper](https://aclanthology.org/W18-0609.pdf)| CLPsych| NA |F1: 86.96% |
+|2018| X-A-BiLSTM: a Deep Learning Approach for Depression Detection in Imbalanced Data| [Paper](https://ieeexplore.ieee.org/document/8621230)| [RSDD](https://ir.cs.georgetown.edu/resources/rsdd.html)| NA |F1: 60.0% |
+| 2018| Exploring and learning suicidal ideation connotations on social media with deep learning. | [Paper](https://aclanthology.org/W18-6223.pdf) | _Auth*_ | NA | F1: 82.7% |
 
 
 # Supporting theories for suicide
