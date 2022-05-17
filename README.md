@@ -40,8 +40,8 @@ This project is associated with the survey paper on ***"Social Computing for Men
 |--------| ---------------------------- | --------------------- |------------------------ |--------------------- |-------------|
 | 2018| Exploring and learning suicidal ideation connotations on social media with deep learning. | [Paper](https://aclanthology.org/W18-6223.pdf) | _Auth*_ | NA | F1: 82.7% |
 | |Exploring the impact of evolutionary computing based feature selection in suicidal ideation detection. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8858989) | Dataset| Code |  |
-| |Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction. | [Paper](https://arxiv.org/pdf/2102.09427.pdf) | Dataset| Code |  |
-| |Emotion-Infused Models for Explainable Psychological Stress Detection. | [Paper](https://aclanthology.org/2021.naacl-main.230.pdf) | Dataset| Code |  |
+| |Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction. | [Paper](https://arxiv.org/pdf/2102.09427.pdf) | [Dataset](https://github.com/ayaanzhaque/SDCNL)| [Code](https://github.com/ayaanzhaque/SDCNL) | F1: 95.44% |
+| |Emotion-Infused Models for Explainable Psychological Stress Detection. | [Paper](https://aclanthology.org/2021.naacl-main.230.pdf) | [Dataset](http://www.cs.columbia.edu/~eturcan/data/dreaddit.zip)| [Code](https://github.com/eturcan/emotion-infused) |  |
 | |Multimodal mental health analysis in social media. | [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226248) | Dataset| Code |  |
 || Feature Attention Network: Interpretable Depression Detection from Social Media. | [Paper](https://aclanthology.org/Y18-1070.pdf)| Dataset| Code |  |
 | |Building and using personal knowledge graph to improve suicidal ideation detection on social media. IEEE Transactions on Multimedia.| [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/09308975.pdf?casa_token=NVcN4VExBigAAAAA:nQG-ZQaKsJcrcTpnsWHUN301Jg9wZapbdy4JUt4gAmdEsEoL0njDvw6hQvS6pbMvWShkNIFF)| Dataset| Code |  |
