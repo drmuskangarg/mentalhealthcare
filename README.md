@@ -60,9 +60,9 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | 2020 | Dual attention based suicide risk detection on social media | [Paper](https://ieeexplore.ieee.org/abstract/document/9182380) | Auth* | NA |F1: 91.54% |
 | 2019| Latent suicide risk detection on microblog via suicide-oriented word embeddings and layered attention | [Paper](https://aclanthology.org/D19-1181.pdf) | [Sina-W](https://github.com/bryant03/Sina-Weibo-Dataset) | NA |F1: 90.92% |
 | 2019| SNAP-BATNET: Cascading author profiling and social network graphs for suicide ideation detection on social media | [Paper](https://aclanthology.org/N19-3019.pdf) | [MDDL](https://github.com/sunlightsgy/MDDL) | NA | F1: 92.6%|
-| 2017| Detecting Early Risk of Depression from Social Media User-generated Content | [Paper](http://ceur-ws.org/Vol-1866/paper_127.pdf) | Auth* | [Code](https://github.com/BigMiners/eRisk2017) |F1: 53% |
+| 2017| Detecting Early Risk of Depression from Social Media User-generated Content | [Paper](http://ceur-ws.org/Vol-1866/paper_127.pdf) | Auth* | NA |F1: 53% |
 | 2017| Detecting Stress Based on Social Interactions in Social Networks | [Paper](https://ieeexplore.ieee.org/document/7885098) | Auth* | NA |F1: 53% |
-| 2014| Psychological stress detection from cross-media microblog data using Deep Sparse Neural Network| [Paper] (https://ieeexplore.ieee.org/document/6890213) | eRisk | [Code](https://github.com/BigMiners/eRisk2017)|F1: 86.12% |
+| 2014| Psychological stress detection from cross-media microblog data using Deep Sparse Neural Network| [Paper](https://ieeexplore.ieee.org/document/6890213) | eRisk | [Code](https://github.com/BigMiners/eRisk2017)|F1: 86.12% |
 # Supporting theories for suicide
 
 1. Klonsky, E. D., & May, A. M. (2015). The three-step theory (3ST):[ A new theory of suicide rooted in the “ideation-to-action” framework. ](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.7503&rep=rep1&type=pdf)International Journal of Cognitive Therapy, 8(2), 114-129.
