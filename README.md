@@ -69,8 +69,7 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | 2020|A hybridized feature extraction approach to suicidal ideation detection from social media post. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230733&casa_token=TYz9cnMmXssAAAAA:W_YLdEx03k-xN4s67PYticy7t8uYv_D8c0v1IK2FCNRwsws5H-G5NbfbaYit3J4gzLFHdXCC)| Dataset| Code |  |
 | 2021|Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data. | [Paper](https://arxiv.org/pdf/2105.13430.pdf) | Dataset| Code |  |
 
-*** Auth* *** refers to the datasets introduced by the specified author (in the table) that are not
-available in the public domain; *** Pirina* *** refers to the dataset introduced by [Pirina and Çöltekin](https://aclanthology.org/W18-5903.pdf); *** Auth*(k) *** refers to [kaggle](https://www.kaggle.com/datasets/hyunkic/twitter-depression-dataset)
+ ##### Auth*  refers to the datasets introduced by the specified author (in the table) that are not available in the public domain; *** Pirina* *** refers to the dataset introduced by [Pirina and Çöltekin](https://aclanthology.org/W18-5903.pdf); 'Auth*(k)' refers to [kaggle dataset](https://www.kaggle.com/datasets/hyunkic/twitter-depression-dataset)
 # Tools and other Resources
 # Supporting theories for suicide
 
