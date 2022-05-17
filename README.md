@@ -18,8 +18,7 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | A Reddit dataset | Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings | [Paper](https://aclanthology.org/W18-0603.pdf) | [On request](http://users.umiacs.umd.edu/~resnik/umd_reddit_suicidality_dataset.html) |
 | A Sina microblog dataset | Latent Suicide Risk Detection on Microblog via Suicide-Oriented Word Embeddings and Layered Attention | [Paper](https://aclanthology.org/D19-1181.pdf) | [On request](https://github.com/bryant03/Sina-Weibo-Dataset) |
 | CAMS | CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts | Paper | Dataset |
-
-# Tools and other Resources
+ 
 
 **APIs for Data Extraction**
 
@@ -70,6 +69,9 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | 2020|A hybridized feature extraction approach to suicidal ideation detection from social media post. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230733&casa_token=TYz9cnMmXssAAAAA:W_YLdEx03k-xN4s67PYticy7t8uYv_D8c0v1IK2FCNRwsws5H-G5NbfbaYit3J4gzLFHdXCC)| Dataset| Code |  |
 | 2021|Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data. | [Paper](https://arxiv.org/pdf/2105.13430.pdf) | Dataset| Code |  |
 
+*** Auth* *** refers to the datasets introduced by the specified author (in the table) that are not
+available in the public domain; *** Pirina* *** refers to the dataset introduced by [Pirina and Çöltekin](https://aclanthology.org/W18-5903.pdf); *** Auth*(k) *** refers to [kaggle](https://www.kaggle.com/datasets/hyunkic/twitter-depression-dataset)
+# Tools and other Resources
 # Supporting theories for suicide
 
 1. Klonsky, E. D., & May, A. M. (2015). The three-step theory (3ST):[ A new theory of suicide rooted in the “ideation-to-action” framework. ](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.7503&rep=rep1&type=pdf)International Journal of Cognitive Therapy, 8(2), 114-129.
