@@ -68,6 +68,8 @@ This project is associated with the survey paper on ***"Social Computing for Men
 |2020 |Explainable Depression Detection with Multi-Modalities Using a Hybrid Deep Learning Model on Social Media | [Paper](https://arxiv.org/pdf/2007.02847.pdf) | [MDDL](https://github.com/sunlightsgy/MDDL) |NA | F1: 89.3% |
 |2020 |Building and using personal knowledge graph to improve suicidal ideation detection on social media| [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/09308975.pdf?casa_token=NVcN4VExBigAAAAA:nQG-ZQaKsJcrcTpnsWHUN301Jg9wZapbdy4JUt4gAmdEsEoL0njDvw6hQvS6pbMvWShkNIFF)| [Sina-W](https://github.com/bryant03/Sina-Weibo-Dataset)| NA |F1: 93.69% |
 | 2020 | Dual attention based suicide risk detection on social media | [Paper](https://ieeexplore.ieee.org/abstract/document/9182380) | Auth*| NA |F1: 91.54% |
+| 2020 | Detection of Suicide Ideation in Social Media Forums Using Deep Learning | [Paper](https://www.mdpi.com/1999-4893/13/1/7) | Auth*| NA |F1: 93.4% |
+
 
 # Supporting theories for suicide
 
