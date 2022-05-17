@@ -46,13 +46,13 @@ This project is associated with the survey paper on ***"Social Computing for Men
 |2018| Feature Attention Network: Interpretable Depression Detection from Social Media. | [Paper](https://aclanthology.org/Y18-1070.pdf)| [Dataset](https://ir.cs.georgetown.edu/resources/rsdd.html)| NA | Better P |
 |2020 |Building and using personal knowledge graph to improve suicidal ideation detection on social media. IEEE Transactions on Multimedia.| [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/09308975.pdf?casa_token=NVcN4VExBigAAAAA:nQG-ZQaKsJcrcTpnsWHUN301Jg9wZapbdy4JUt4gAmdEsEoL0njDvw6hQvS6pbMvWShkNIFF)| Auth*| NA |F1: 93.69% |
 | 2020|A hybridized feature extraction approach to suicidal ideation detection from social media post. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230733&casa_token=TYz9cnMmXssAAAAA:W_YLdEx03k-xN4s67PYticy7t8uYv_D8c0v1IK2FCNRwsws5H-G5NbfbaYit3J4gzLFHdXCC)| Dataset| Code |  |
-|2020 |Sensemood: Depression detection on social media. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3372278.3391932?casa_token=qr_9LHm3WNsAAAAA:Ulea6DRqLb2bw9WrBNvA5ejT5MNed2V1aLZQORzY992B26QLdq3R9DWNh22VHoPC8v3kWPjcNryZ) | Dataset| Code | F1: 93.60% |
-|2019 |Cooperative multimodal approach to depression detection in Twitter. | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/3775) | Autht| Code | F1: 90.0% |
+|2020 |Sensemood: Depression detection on social media. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3372278.3391932?casa_token=qr_9LHm3WNsAAAAA:Ulea6DRqLb2bw9WrBNvA5ejT5MNed2V1aLZQORzY992B26QLdq3R9DWNh22VHoPC8v3kWPjcNryZ) | Auth*|NA | F1: 93.60% |
+|2019 |Cooperative multimodal approach to depression detection in Twitter. | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/3775) | Auth*| NA | F1: 90.0% |
 |2020 |A time-aware transformer based model for suicide ideation detection on social media. | [Paper](https://aclanthology.org/2020.emnlp-main.619.pdf) | Auth*| [Code]( https://github.com/midas-research/STATENet_Time_Aware_Suicide_Assessment) | F1: 79.9% |
-| |PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media. | [Paper](https://aclanthology.org/2021.eacl-main.205.pdf) | Dataset| Code |  |
-| |DepressionNet: A Novel Summarization Boosted Deep Framework for Depression Detection on Social Media. | [Paper](https://arxiv.org/pdf/2105.10878.pdf) | Dataset| Code |  |
-| |Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data. | [Paper](https://arxiv.org/pdf/2105.13430.pdf) | Dataset| Code |  |
-| |Find supports for the post about mental issues: More than semantic matching. | Paper | Dataset| Code |  |
+| 2021|PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media. | [Paper](https://aclanthology.org/2021.eacl-main.205.pdf) | Auth*| [Code](https://github.com/midas-research/phase-eacl) |F1: 80.5%|
+|2021 |DepressionNet: A Novel Summarization Boosted Deep Framework for Depression Detection on Social Media. | [Paper](https://arxiv.org/pdf/2105.10878.pdf) | [Dataset](https://github.com/sunlightsgy/MDDL)| [Code](https://github.com/hzogan/DepressionNet) | F1: 91.2% |
+| 2021|Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data. | [Paper](https://arxiv.org/pdf/2105.13430.pdf) | Dataset| Code |  |
+| 2022|Find supports for the post about mental issues: More than semantic matching. | [Paper](https://dl.acm.org/doi/10.1145/3508373) | Auth*| NA | F1: 83.67% |
 | |Deep learning for depression detection from textual data.| Paper | Dataset| Code |  |
 | |Deep learning for depression detection from textual data.| Paper | Dataset| Code |  |
 | 2021 | Towards ordinal suicide ideation detection on social media. | Paper | Dataset | Code | |
