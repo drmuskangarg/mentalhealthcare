@@ -43,7 +43,6 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | 2020|A hybridized feature extraction approach to suicidal ideation detection from social media post. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230733&casa_token=TYz9cnMmXssAAAAA:W_YLdEx03k-xN4s67PYticy7t8uYv_D8c0v1IK2FCNRwsws5H-G5NbfbaYit3J4gzLFHdXCC)| Dataset| Code |  |
 |2020 |A time-aware transformer based model for suicide ideation detection on social media. | [Paper](https://aclanthology.org/2020.emnlp-main.619.pdf) | Auth*| [Code]( https://github.com/midas-research/STATENet_Time_Aware_Suicide_Assessment) | F1: 79.9% |
 | 2021|Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data. | [Paper](https://arxiv.org/pdf/2105.13430.pdf) | Dataset| Code |  |
-| 2021 | Depression detection with multi-modalities using a hybrid deep learning model on social media | Paper | [MDDL](https://github.com/sunlightsgy/MDDL) | NA | F1: 91.2%|
 | 2014| Psychological stress detection from cross-media microblog data using Deep Sparse Neural Network| [Paper](https://ieeexplore.ieee.org/document/6890213) | eRisk | [Code](https://github.com/BigMiners/eRisk2017)|F1: 86.12% |
 | 2017| Detecting Early Risk of Depression from Social Media User-generated Content | [Paper](http://ceur-ws.org/Vol-1866/paper_127.pdf) | Auth* | NA |F1: 53% |
 | 2017| Detecting Stress Based on Social Interactions in Social Networks | [Paper](https://ieeexplore.ieee.org/document/7885098) | Auth* | NA |F1: 53% |
@@ -67,6 +66,7 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | 2021|Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction. | [Paper](https://arxiv.org/pdf/2102.09427.pdf) | [SDCNL](https://github.com/ayaanzhaque/SDCNL)| [Code](https://github.com/ayaanzhaque/SDCNL) | F1: 95.44% |
 | 2021|PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media. | [Paper](https://aclanthology.org/2021.eacl-main.205.pdf) | Auth*| [Code](https://github.com/midas-research/phase-eacl) |F1: 80.5%|
 | 2021 | Towards ordinal suicide ideation detection on social media. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441805) | [SRAR](https://github.com/AmanuelF/Suicide-Risk-Assessment-using-Reddit) | [Code](https://github.com/midas-research/sismo-wsdm) |F1: 73% |
+| 2021 | Depression detection with multi-modalities using a hybrid deep learning model on social media | Paper | [MDDL](https://github.com/sunlightsgy/MDDL) | NA | F1: 91.2%|
 | 2022|Deep learning for depression detection from textual data| [Paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiE_p_41uX3AhVJBKYKHdPVCxcQFnoECAsQAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2079-9292%2F11%2F5%2F676%2Fpdf&usg=AOvVaw3bc_HQMD7NtKBYBq55p774) | [Auth*(k)](https://www.kaggle.com/hyunkic/twitter-depression-dataset )| NA |  F1: 98%|
 | 2022|Find supports for the post about mental issues: More than semantic matching. | [Paper](https://dl.acm.org/doi/10.1145/3508373) | MH-QA| NA | F1: 83.67% |
 # Supporting theories for suicide
