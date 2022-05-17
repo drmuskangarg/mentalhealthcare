@@ -53,7 +53,7 @@ This project is associated with the survey paper on ***"Social Computing for Men
 |2021 |DepressionNet: A Novel Summarization Boosted Deep Framework for Depression Detection on Social Media. | [Paper](https://arxiv.org/pdf/2105.10878.pdf) | [Dataset](https://github.com/sunlightsgy/MDDL)| [Code](https://github.com/hzogan/DepressionNet) | F1: 91.2% |
 | 2021|Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data. | [Paper](https://arxiv.org/pdf/2105.13430.pdf) | Dataset| Code |  |
 | 2022|Find supports for the post about mental issues: More than semantic matching. | [Paper](https://dl.acm.org/doi/10.1145/3508373) | Auth*| NA | F1: 83.67% |
-| |Deep learning for depression detection from textual data.| Paper | Dataset| Code |  |
+| 2022|Deep learning for depression detection from textual data.| [Paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiE_p_41uX3AhVJBKYKHdPVCxcQFnoECAsQAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2079-9292%2F11%2F5%2F676%2Fpdf&usg=AOvVaw3bc_HQMD7NtKBYBq55p774) | [Dataset](https://www.kaggle.com/hyunkic/twitter-depression-dataset )| NA |  F1: 98%|
 | |Deep learning for depression detection from textual data.| Paper | Dataset| Code |  |
 | 2021 | Towards ordinal suicide ideation detection on social media. | Paper | Dataset | Code | |
 | 2021 | Depression detection with multi-modalities using a hybrid deep learning model on social media | Paper | Dataset | Code | |
