@@ -19,6 +19,19 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | A Sina microblog dataset | Latent Suicide Risk Detection on Microblog via Suicide-Oriented Word Embeddings and Layered Attention | [Paper](https://aclanthology.org/D19-1181.pdf) | [On request](https://github.com/bryant03/Sina-Weibo-Dataset) |
 | CAMS | CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts | Paper | Dataset |
  
+ # Tools and other Resources
+**APIs for Data Extraction**
+
+1. Twitter: [The Tweepy API](https://docs.tweepy.org/en/stable/api.html)
+2. Reddit: [Python Reddit API Wrapper (PRAW) API]( https://praw.readthedocs.io/en/stable/index.html)
+3. Gab: [The garc API](https://pypi.org/project/garc/)
+4. Facebook: [Graph API](https://pypi.org/project/python-facebook-api/)
+
+**Processing Social Media**
+
+1. Human text analysis package for social media and social scientific applications: [DLATK](https://dlatk.wwbp.org/)
+2. Social Network Analysis: [Pajek](https://pypi.org/project/pajek-tools/), [Gephi](https://gephi.wordpress.com/tag/python/), [igraph](https://igraph.org/python/) and [NetworkX](https://networkx.org/).
+
 
 
 # Recent Advances: Features and Methods
@@ -59,18 +72,6 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | 2021|Explainable Multi-class Classification of the CAMH COVID-19 Mental Health Data. | [Paper](https://arxiv.org/pdf/2105.13430.pdf) | Dataset| Code |  |
 
  ##### Auth*  refers to the datasets introduced by the specified author (in the table) that are not available in the public domain;  'Pirina*' refers to the dataset introduced by [Pirina and Çöltekin](https://aclanthology.org/W18-5903.pdf); 'Auth*(k)' refers to [kaggle dataset](https://www.kaggle.com/datasets/hyunkic/twitter-depression-dataset).
-# Tools and other Resources
-**APIs for Data Extraction**
-
-1. Twitter: [The Tweepy API](https://docs.tweepy.org/en/stable/api.html)
-2. Reddit: [Python Reddit API Wrapper (PRAW) API]( https://praw.readthedocs.io/en/stable/index.html)
-3. Gab: [The garc API](https://pypi.org/project/garc/)
-4. Facebook: [Graph API](https://pypi.org/project/python-facebook-api/)
-
-**Processing Social Media**
-
-1. Human text analysis package for social media and social scientific applications: [DLATK](https://dlatk.wwbp.org/)
-2. Social Network Analysis: [Pajek](https://pypi.org/project/pajek-tools/), [Gephi](https://gephi.wordpress.com/tag/python/), [igraph](https://igraph.org/python/) and [NetworkX](https://networkx.org/).
 
 # Supporting theories for suicide
 
