@@ -20,17 +20,6 @@ This project is associated with the survey paper on ***"Social Computing for Men
 | CAMS | CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts | Paper | Dataset |
  
 
-**APIs for Data Extraction**
-
-1. Twitter: [The Tweepy API](https://docs.tweepy.org/en/stable/api.html)
-2. Reddit: [Python Reddit API Wrapper (PRAW) API]( https://praw.readthedocs.io/en/stable/index.html)
-3. Gab: [The garc API](https://pypi.org/project/garc/)
-4. Facebook: [Graph API](https://pypi.org/project/python-facebook-api/)
-
-**Processing Social Media**
-
-1. Human text analysis package for social media and social scientific applications: [DLATK](https://dlatk.wwbp.org/)
-2. Social Network Analysis: [Pajek](https://pypi.org/project/pajek-tools/), [Gephi](https://gephi.wordpress.com/tag/python/), [igraph](https://igraph.org/python/) and [NetworkX](https://networkx.org/).
 
 # Recent Advances: Features and Methods
 
@@ -71,6 +60,18 @@ This project is associated with the survey paper on ***"Social Computing for Men
 
  ##### Auth*  refers to the datasets introduced by the specified author (in the table) that are not available in the public domain;  'Pirina*' refers to the dataset introduced by [Pirina and Çöltekin](https://aclanthology.org/W18-5903.pdf); 'Auth*(k)' refers to [kaggle dataset](https://www.kaggle.com/datasets/hyunkic/twitter-depression-dataset).
 # Tools and other Resources
+**APIs for Data Extraction**
+
+1. Twitter: [The Tweepy API](https://docs.tweepy.org/en/stable/api.html)
+2. Reddit: [Python Reddit API Wrapper (PRAW) API]( https://praw.readthedocs.io/en/stable/index.html)
+3. Gab: [The garc API](https://pypi.org/project/garc/)
+4. Facebook: [Graph API](https://pypi.org/project/python-facebook-api/)
+
+**Processing Social Media**
+
+1. Human text analysis package for social media and social scientific applications: [DLATK](https://dlatk.wwbp.org/)
+2. Social Network Analysis: [Pajek](https://pypi.org/project/pajek-tools/), [Gephi](https://gephi.wordpress.com/tag/python/), [igraph](https://igraph.org/python/) and [NetworkX](https://networkx.org/).
+
 # Supporting theories for suicide
 
 1. Klonsky, E. D., & May, A. M. (2015). The three-step theory (3ST):[ A new theory of suicide rooted in the “ideation-to-action” framework. ](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.7503&rep=rep1&type=pdf)International Journal of Cognitive Therapy, 8(2), 114-129.
