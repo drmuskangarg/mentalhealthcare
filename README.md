@@ -2,29 +2,6 @@
 # Reading List for Mental Health Detection and Analysis on Social Media
 This project is associated with the survey paper on [***"Mental Health Analysis for Social Media: A Survey"***](https://link.springer.com/article/10.1007/s11831-022-09863-z). For a decade now, the exponential growth is observed in computational intelligence techniques for mental illness detection and analysis on social media. 
 
-## Citation
-
-If you use this work, please cite it as follows:
-
-### APA
-
-Garg, M. (2023). *Mental health analysis in social media posts: a survey*. Archives of Computational Methods in Engineering, 30(3), 1819–1842.
-
-### BibTeX
-
-```bibtex
-@article{garg2023mental,
-  title={Mental health analysis in social media posts: a survey},
-  author={Garg, Muskan},
-  journal={Archives of Computational Methods in Engineering},
-  volume={30},
-  number={3},
-  pages={1819--1842},
-  year={2023},
-  publisher={Springer}
-}
-
-
 # Available Datasets 
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
@@ -95,3 +72,25 @@ Garg, M. (2023). *Mental health analysis in social media posts: a survey*. Archi
 
 1. Klonsky, E. D., & May, A. M. (2015). The three-step theory (3ST):[ A new theory of suicide rooted in the “ideation-to-action” framework. ](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.7503&rep=rep1&type=pdf)International Journal of Cognitive Therapy, 8(2), 114-129.
 2. Kang, N., You, J., Huang, J., Ren, Y., Lin, M. P., & Xu, S. (2019).[ Understanding the Pathways from Depression to Suicidal Risk from the Perspective of the Interpersonal–Psychological Theory of Suicide.](https://www.researchgate.net/profile/Nan-Kang-2/publication/324012197_Understanding_the_Pathways_from_Depression_to_Suicidal_Risk_from_the_Perspective_of_the_Interpersonal-Psychological_Theory_of_Suicide/links/5e1968c9a6fdcc283768a02a/Understanding-the-Pathways-from-Depression-to-Suicidal-Risk-from-the-Perspective-of-the-Interpersonal-Psychological-Theory-of-Suicide.pdf) Suicide and Life‐Threatening Behavior, 49(3), 684-694.
+
+## Citation
+
+If you use this work, please cite it as follows:
+
+### APA
+
+Garg, M. (2023). *Mental health analysis in social media posts: a survey*. Archives of Computational Methods in Engineering, 30(3), 1819–1842.
+
+### BibTeX
+
+```bibtex
+@article{garg2023mental,
+  title={Mental health analysis in social media posts: a survey},
+  author={Garg, Muskan},
+  journal={Archives of Computational Methods in Engineering},
+  volume={30},
+  number={3},
+  pages={1819--1842},
+  year={2023},
+  publisher={Springer}
+}
