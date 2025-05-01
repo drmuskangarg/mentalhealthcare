@@ -17,8 +17,16 @@ This project is associated with the survey paper on [***"Mental Health Analysis 
 | SRAR | Knowledge-aware assessment of severity of suicide risk for early intervention. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313698?casa_token=ZI5GX1Cv60IAAAAA:vTvADTR8bxHCOtmI8sqE2zIPL6gdB0M51OlhRJRJfJI34h96TkUVl4-TtMCEJT9vmJsl30YeU0ah) | [Dataset](https://github.com/AmanuelF/Suicide-Risk-Assessment-using-Reddit) |
 | A Reddit dataset | Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings | [Paper](https://aclanthology.org/W18-0603.pdf) | [On request](http://users.umiacs.umd.edu/~resnik/umd_reddit_suicidality_dataset.html) |
 | A Sina microblog dataset | Latent Suicide Risk Detection on Microblog via Suicide-Oriented Word Embeddings and Layered Attention | [Paper](https://aclanthology.org/D19-1181.pdf) | [On request](https://github.com/bryant03/Sina-Weibo-Dataset) |
-| CAMS | CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts | Paper | Dataset |
- 
+| CAMS | CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts | [Paper](https://aclanthology.org/2022.lrec-1.686.pdf) | [Dataset](https://github.com/drmuskangarg/CAMS/tree/main/CAMS/data) |
+| LoSTv1|LOST: A Mental Health Dataset of Low Self-esteem in Reddit Posts |[Paper](https://ieeexplore.ieee.org/abstract/document/10394671)| [Dataset](https://github.com/drmuskangarg/LoST/tree/main/Version1)| 
+|IRF| An Annotated Dataset for Explainable Interpersonal Risk Factors of Mental Disturbance in Social Media Posts | [Paper](https://aclanthology.org/2023.findings-acl.757.pdf) | [Dataset](https://github.com/drmuskangarg/Irf) | 
+| LonXplain| LonXplain: Lonesomeness as a Consequence of Mental Disturbance in Reddit Posts | [Paper](https://dl.acm.org/doi/abs/10.1007/978-3-031-35320-8_27)| [Dataset](https://github.com/drmuskangarg/lonesomeness_dataset) | 
+| LoSTv2| Reliability analysis of psychological concept extraction and classification in user-penned text | [Paper](https://ojs.aaai.org/index.php/ICWSM/article/view/31324/33484)| [Dataset](https://github.com/drmuskangarg/LoST/tree/main/Version2) |
+|MultiWD| MultiWD: Multi-label wellness dimensions in social media posts|[Paper](https://www.sciencedirect.com/science/article/pii/S1532046424000042)| [Dataset](https://github.com/drmuskangarg/MultiWD)|
+|WellXplain| WellXplain: Wellness concept extraction and classification in Reddit posts for mental health analysis | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705123009784?casa_token=oITGSRRrfwMAAAAA:-aWzw3RQxJufNODus8big0QztqQnKph3A0VG1FJ3MSwhhmmZqqKyqchYrEANsfXN5gHT2IKv) | [Dataset](https://github.com/drmuskangarg/WellnessDimensions) |
+
+
+
  # Tools and other Resources
 **APIs for Data Extraction**
 
@@ -65,6 +73,13 @@ This project is associated with the survey paper on [***"Mental Health Analysis 
 | 2022|Deep learning for depression detection from textual data| [Paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiE_p_41uX3AhVJBKYKHdPVCxcQFnoECAsQAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2079-9292%2F11%2F5%2F676%2Fpdf&usg=AOvVaw3bc_HQMD7NtKBYBq55p774) | [Auth*(k)](https://www.kaggle.com/hyunkic/twitter-depression-dataset )| NA |  F1: 98%|
 | 2022|Find supports for the post about mental issues: More than semantic matching. | [Paper](https://dl.acm.org/doi/10.1145/3508373) | MH-QA| NA | F1: 83.67% |
 | 2022|CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts. | [Paper](https://aclanthology.org/2022.lrec-1.686.pdf) | [CAMS](https://github.com/drmuskangarg/CAMS/tree/main/CAMS/data)| [Code](https://github.com/drmuskangarg/CAMS) |Acc: 47.78 |
+| 2023|LOST: A Mental Health Dataset of Low Self-esteem in Reddit Posts |[Paper](https://ieeexplore.ieee.org/abstract/document/10394671)| [LoSTv1](https://github.com/drmuskangarg/LoST/tree/main/Version1)| NA | Acc: 88%|
+|2023| An Annotated Dataset for Explainable Interpersonal Risk Factors of Mental Disturbance in Social Media Posts | [Paper](https://aclanthology.org/2023.findings-acl.757.pdf) | [IRF](https://github.com/drmuskangarg/Irf) | [Code](https://github.com/drmuskangarg/Irf/tree/main/src) | F1: 78% | 
+| 2023| LonXplain: Lonesomeness as a Consequence of Mental Disturbance in Reddit Posts | [Paper](https://dl.acm.org/doi/abs/10.1007/978-3-031-35320-8_27)| [LonXplain](https://github.com/drmuskangarg/lonesomeness_dataset) | NA | F1: 81%|
+| 2023| Reliability analysis of psychological concept extraction and classification in user-penned text | [Paper](https://ojs.aaai.org/index.php/ICWSM/article/view/31324/33484)| [LoSTv2](https://github.com/drmuskangarg/LoST/tree/main/Version2) | NA | F1:68.72% |
+|2024| MultiWD: Multi-label wellness dimensions in social media posts|[Paper](https://www.sciencedirect.com/science/article/pii/S1532046424000042)| [MultiWD](https://github.com/drmuskangarg/MultiWD)|  | F1: 85.06%|
+|2024| WellXplain: Wellness concept extraction and classification in Reddit posts for mental health analysis | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705123009784?casa_token=oITGSRRrfwMAAAAA:-aWzw3RQxJufNODus8big0QztqQnKph3A0VG1FJ3MSwhhmmZqqKyqchYrEANsfXN5gHT2IKv) | [WellXplain](https://github.com/drmuskangarg/WellnessDimensions) | [Code](https://github.com/drmuskangarg/WellnessDimensions) | F1:37.58%  |
+
 
  ##### Auth*  refers to the datasets introduced by the specified author (in the table) that are not available in the public domain;  'Pirina*' refers to the dataset introduced by [Pirina and Çöltekin](https://aclanthology.org/W18-5903.pdf); 'Auth*(k)' refers to [kaggle dataset](https://www.kaggle.com/datasets/hyunkic/twitter-depression-dataset).
 
