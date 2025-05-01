@@ -2,6 +2,29 @@
 # Reading List for Mental Health Detection and Analysis on Social Media
 This project is associated with the survey paper on [***"Mental Health Analysis for Social Media: A Survey"***](https://link.springer.com/article/10.1007/s11831-022-09863-z). For a decade now, the exponential growth is observed in computational intelligence techniques for mental illness detection and analysis on social media. 
 
+## Citation
+
+If you use this work, please cite it as follows:
+
+### APA
+
+Garg, M. (2023). *Mental health analysis in social media posts: a survey*. Archives of Computational Methods in Engineering, 30(3), 1819–1842.
+
+### BibTeX
+
+```bibtex
+@article{garg2023mental,
+  title={Mental health analysis in social media posts: a survey},
+  author={Garg, Muskan},
+  journal={Archives of Computational Methods in Engineering},
+  volume={30},
+  number={3},
+  pages={1819--1842},
+  year={2023},
+  publisher={Springer}
+}
+
+
 # Available Datasets 
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
@@ -31,8 +54,6 @@ This project is associated with the survey paper on [***"Mental Health Analysis 
 
 1. Human text analysis package for social media and social scientific applications: [DLATK](https://dlatk.wwbp.org/)
 2. Social Network Analysis: [Pajek](https://pypi.org/project/pajek-tools/), [Gephi](https://gephi.wordpress.com/tag/python/), [igraph](https://igraph.org/python/) and [NetworkX](https://networkx.org/).
-
-
 
 # Recent Advances: Features and Methods
 
@@ -66,6 +87,7 @@ This project is associated with the survey paper on [***"Mental Health Analysis 
 | 2021 | Depression detection with multi-modalities using a hybrid deep learning model on social media | Paper | [MDDL](https://github.com/sunlightsgy/MDDL) | NA | F1: 91.2%|
 | 2022|Deep learning for depression detection from textual data| [Paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiE_p_41uX3AhVJBKYKHdPVCxcQFnoECAsQAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2079-9292%2F11%2F5%2F676%2Fpdf&usg=AOvVaw3bc_HQMD7NtKBYBq55p774) | [Auth*(k)](https://www.kaggle.com/hyunkic/twitter-depression-dataset )| NA |  F1: 98%|
 | 2022|Find supports for the post about mental issues: More than semantic matching. | [Paper](https://dl.acm.org/doi/10.1145/3508373) | MH-QA| NA | F1: 83.67% |
+| 2022|CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts. | [Paper](https://aclanthology.org/2022.lrec-1.686.pdf) | [CAMS](https://github.com/drmuskangarg/CAMS/tree/main/CAMS/data)| [Code](https://github.com/drmuskangarg/CAMS) |Acc: 47.78 |
 
  ##### Auth*  refers to the datasets introduced by the specified author (in the table) that are not available in the public domain;  'Pirina*' refers to the dataset introduced by [Pirina and Çöltekin](https://aclanthology.org/W18-5903.pdf); 'Auth*(k)' refers to [kaggle dataset](https://www.kaggle.com/datasets/hyunkic/twitter-depression-dataset).
 
